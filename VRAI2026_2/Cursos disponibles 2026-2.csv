@@ -1,0 +1,873 @@
+﻿NRC,Escuela,Nivel,Nombre Curso,Sigla,Sección,Créditos UC,Categoría del Curso,Campus,Método Educativo,¿Permite retiro en el período para eliminar un curso?,Horario Clases,Horario Ayudantía,Horario Laboratorio,Horario Taller,Horario Terreno,Idioma curso
+31717,Agronomía y Sistemas Naturales,MG - Magister,Produccion de Salmonideos,AGZ358,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = W:1450 a 1840; ,,,,,Español
+10132,Agronomía y Sistemas Naturales,PR - Pregrado,Mecanizacion,AGC204,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = V:1220 a 1720; ,,,,,Español
+10166,Agronomía y Sistemas Naturales,PR - Pregrado,Flora Nativa,AGC220,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1220 a 1720; ,,,,,Español
+10173,Agronomía y Sistemas Naturales,PR - Pregrado,Postcosecha de Cultivos,AGC306,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:0940 a 1050; J:0940 a 1050; ,AYU = J:1220 a 1720; ,,,,Español
+10435,Agronomía y Sistemas Naturales,PR - Pregrado,Climatologia,AGL112,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1100 a 1210; W:1100 a 1210; ,AYU = L:1220 a 1600; ,,TAL = L:1730 a 1840; ,,Español
+10442,Agronomía y Sistemas Naturales,PR - Pregrado,Climatologia,AGL112,2,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1100 a 1210; W:1100 a 1210; ,AYU = W:1220 a 1600; ,,TAL = L:1730 a 1840; ,,Español
+10561,Agronomía y Sistemas Naturales,PR - Pregrado,Vitivinicultura,AGL245,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:0940 a 1050; J:0940 a 1050; ,AYU = M:1220 a 1720; ,,,TER = M:1730 a 1840; ,Español
+10884,Agronomía y Sistemas Naturales,PR - Pregrado,Manejo de Areas Protegidas,AGR311,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1100 a 1330; ,,,,,Español
+15673,Agronomía y Sistemas Naturales,PR - Pregrado,Agua y Riego,AGL111,2,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1100 a 1210; W:1100 a 1210; ,AYU = M:1220 a 1720; ,,,TER = M:1730 a 1840; ,Español
+19463,Agronomía y Sistemas Naturales,PR - Pregrado,Conservacion y Biodiversidad,AGR339,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1220 a 1720; ,,,,,Español
+20335,Agronomía y Sistemas Naturales,PR - Pregrado,Form y Eval de Proyect,AGL233,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:0940 a 1050; J:0940 a 1050; ,AYU = V:0940 a 1050; ,,,,Español
+20338,Agronomía y Sistemas Naturales,PR - Pregrado,Produc de Cultivo Extensivo,AGC307,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1100 a 1720; ,,,,TER = L:1730 a 1840; ,Español
+20339,Agronomía y Sistemas Naturales,PR - Pregrado,Horticultura,AGC308,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = W:1100 a 1330; ,AYU = W:1450 a 1720; ,,,TER = W:1730 a 1840; ,Español
+20342,Agronomía y Sistemas Naturales,PR - Pregrado,Produc de Flores y Ornamental,AGC311,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:0940 a 1050; J:0940 a 1050; ,AYU = J:1220 a 1720; ,,,TER = J:1730 a 1840; ,Español
+20355,Agronomía y Sistemas Naturales,PR - Pregrado,Desarrollo Rural,AGE318,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1100 a 1210; J:1100 a 1210; ,,,,,Español
+22835,Agronomía y Sistemas Naturales,PR - Pregrado,Metod Integr en Protec Vegetal,AGF322,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:0940 a 1050; W:0940 a 1050; ,AYU = W:1220 a 1600; ,,,,Español
+22837,Agronomía y Sistemas Naturales,PR - Pregrado,Nutricion y Fertil Frutal,AGF323,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1100 a 1210; J:1100 a 1330; ,AYU = J:1450 a 1840; ,,,,Español
+22853,Agronomía y Sistemas Naturales,PR - Pregrado,Infraestructura Verde,AGC326,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:0940 a 1050; W:0940 a 1050; ,,,,,Español
+23726,Agronomía y Sistemas Naturales,PR - Pregrado,Economia Agraria y Ambiental,AGE207,2,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1100 a 1210; J:1100 a 1210; ,AYU = V:0820 a 0930; ,,,,Español
+24647,Agronomía y Sistemas Naturales,PR - Pregrado,Genetica y Biotecnologia,AGL203,3,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:0940 a 1050; J:0940 a 1050; ,AYU = J:1450 a 1840; ,,,,Español
+26178,Agronomía y Sistemas Naturales,PR - Pregrado,Tecno Agrop Emer y Agri Digita,AGL309,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = W:1450 a 1840; ,,,,,Español
+26666,Agronomía y Sistemas Naturales,PR - Pregrado,Comercio Exterior Silvoagropec,AGL270,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = W:1220 a 1720; ,,,,,Español
+28052,Agronomía y Sistemas Naturales,PR - Pregrado,Bosques y Sociedad,AGR321,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1450 a 2000; ,,,,,Español
+29024,Agronomía y Sistemas Naturales,PR - Pregrado,Apicultura Sustentable,AGL253,1,10,,San Joaquín,PR - Presencial,No,CLAS = J:1220 a 1600; ,,,,,Español
+31611,Agronomía y Sistemas Naturales,PR - Pregrado,Economia Ambiental,AGE313,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1100 a 1210; J:1100 a 1210; ,,,,,Español
+32750,Antropología,PR - Pregrado,Paradigmas Antropologicos,ANT100,5,10,,San Joaquín,PR - Presencial,Sí,CLAS = W:1100 a 1330; ,,,,,Español
+20381,Antropología,PR - Pregrado,Prehistoria General,ANT1600,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1100 a 1330; ,,,,,Español
+14061,Antropología,PR - Pregrado,Antropologia del Parentesco y,ANT200,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = J:1610 a 1840; ,,,,,Español
+16743,Antropología,PR - Pregrado,Antropologia Economica,ANT230,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:0940 a 1210; ,,,,,Español
+16744,Antropología,PR - Pregrado,Antropologia de la Religion,ANT240,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = W:1100 a 1330; ,AYU = V:1220 a 1330; ,,,,Español
+16745,Antropología,PR - Pregrado,Antropologia Medica,ANT250,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1100 a 1330; ,,,,,Español
+19780,Antropología,PR - Pregrado,Prehistoria de América,ANT302Q,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1450 a 1720; ,AYU = V:1220 a 1330; ,,,,Español
+14063,Antropología,PR - Pregrado,Antropologia de Chile,ANT400R,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1100 a 1210; J:1100 a 1210; ,AYU = L:1220 a 1330; ,,,,Español
+28672,Arquitectura,MG - Magister,Investigacion Dirigida en Arqu,ARQ3008,1,10,,Lo Contador,PR - Presencial,Sí,,,,,,Español
+10201,Arquitectura,MG - Magister,Gestion del Proyecto Urbano,ARQ3506,1,10,,Lo Contador,PR - Presencial,Sí,CLAS = J:1450 a 1720; ,,,,,Español
+24997,Arquitectura,MG - Magister,La Oficina como Proyecto,ARQ3099,1,5,,Lo Contador,PR - Presencial,Sí,CLAS = J:0820 a 1050; ,,,,,Español
+24979,Arquitectura,MG - Magister,Taller Colaborativo,ARQ3104,1,10,,San Joaquín,PR - Presencial,Sí,,,,,,Español
+21621,Arquitectura,MG - Magister,Ecol Urban e Infraest Verde,ARQ3355,1,10,,Lo Contador,OS - Online Sincrónico,Sí,CLAS = L:1730 a 2000; ,,,,,Español
+27491,Arquitectura,MG - Magister,"Lab Tecn Paisaj: Veg, Agua Pro",ARQ3231,1,10,,Lo Contador,PR - Presencial,Sí,CLAS = L:1450 a 1720; ,,,,,Español
+16446,Arquitectura,MG - Magister,Energia y Eficiencia,ARQ3605,1,10,,Lo Contador,PR - Presencial,Sí,CLAS = W:1450 a 1720; ,,,,,Español
+17822,Arquitectura,MG - Magister,Evaluación de Estrategías,ARQ3606,1,10,,Lo Contador,PR - Presencial,Sí,CLAS = M:1100 a 1330; ,,,,,Español
+34657,Arquitectura,MG - Magister,Las Envolventes y la Edificaci,ARQ3711,1,10,,Lo Contador,PR - Presencial,Sí,CLAS = L:1450 a 1720; ,,,,,Español
+11337,Arquitectura,PR - Pregrado,Tecnicas y Construccion,AQC0200,1,10,,Lo Contador,PR - Presencial,Sí,CLAS = J:0820 a 1210; ,,,,,Español
+11368,Arquitectura,PR - Pregrado,"Instalaciones, Sistemas y Proy",AQC0300,1,10,,Lo Contador,PR - Presencial,Sí,CLAS = J:0820 a 1210; ,,,,,Español
+11450,Arquitectura,PR - Pregrado,Debates de la Arquitectura Con,AQH0400,1,10,,Lo Contador,PR - Presencial,Sí,CLAS = W:1220 a 1330; V:1100 a 1210; ,,LAB = V:1220 a 1330; ,,,Español
+33275,Arquitectura,PR - Pregrado,Diseño de Viviendas Saludables,AQI0003,1,10,,Lo Contador,PR - Presencial,Sí,CLAS = W:1100 a 1330; ,,,,,Español
+19977,Arquitectura,PR - Pregrado,Cmd el Mueble: la Construccion,AQI0203,1,10,,Lo Contador,PR - Presencial,Sí,CLAS = J:1100 a 1330; ,,,,,Español
+15994,Arquitectura,PR - Pregrado,Cmd Habitabilidad en Sectores,AQI0303,1,10,AS - Aprendizaje Servicio,Lo Contador,PR - Presencial,Sí,CLAS = V:0940 a 1210; ,,,,,Español
+30675,Arquitectura,PR - Pregrado,Produccion Digital I,AQR1000,2,5,,Lo Contador,PR - Presencial,Sí,CLAS = M:0820 a 1050; ,,,,,Español
+16249,Arquitectura,PR - Pregrado,Taller Investigacion y Proyect,AQT006U,1,20,,Lo Contador,PR - Presencial,Sí,,,,TAL = M:1450 a 1720; V:1450 a 1720; ,,Español
+29301,Arquitectura,PR - Pregrado,Taller Investigacion y Proyect,AQT006U,2,20,,Lo Contador,PR - Presencial,Sí,CLAS = L:1450 a 1720; M:1450 a 1720; ,,,,,Español
+23106,Arquitectura,PR - Pregrado,Taller Investigacion y Proyect,AQT006U,3,20,,Lo Contador,PR - Presencial,Sí,,,,TAL = M:1450 a 1720; V:1450 a 1720; ,,Español
+27433,Arquitectura,PR - Pregrado,Taller Investigacion y Proyect,AQT006U,4,20,,Lo Contador,PR - Presencial,Sí,CLAS = V:1450 a 1720; ,,,TAL = L:1100 a 1330; ,,Español
+27436,Arquitectura,PR - Pregrado,Taller Investigacion y Proyect,AQT006U,5,20,,Lo Contador,PR - Presencial,Sí,,,,TAL = M:1450 a 1720; V:1450 a 1720; ,,Español
+27437,Arquitectura,PR - Pregrado,Taller Investigacion y Proyect,AQT006U,6,20,,Lo Contador,PR - Presencial,Sí,,,,TAL = M:1450 a 1720; J:1450 a 1720; ,,Español
+27438,Arquitectura,PR - Pregrado,Taller Investigacion y Proyect,AQT006U,7,20,,Lo Contador,PR - Presencial,Sí,CLAS = M:1450 a 1720; V:1450 a 1720; ,,,,,Español
+16006,Arquitectura,PR - Pregrado,Taller Optativo Proyecto I,AQT007U,1,15,,Lo Contador,PR - Presencial,Sí,,,,TAL = M:1450 a 1840; J:1450 a 1840; ,,Español
+16012,Arquitectura,PR - Pregrado,Taller Optativo Proyecto I,AQT007U,2,15,,Lo Contador,PR - Presencial,Sí,CLAS = M:1450 a 1840; W:1450 a 1840; ,,,,,Español
+23114,Arquitectura,PR - Pregrado,Taller Optativo Proyecto I,AQT007U,4,15,,Lo Contador,PR - Presencial,Sí,,,,TAL = M:1450 a 1840; J:1450 a 1840; ,,Español
+24905,Arquitectura,PR - Pregrado,Taller Optativo Proyecto I,AQT007U,5,15,,Lo Contador,PR - Presencial,Sí,,,,TAL = L:1450 a 1840; W:1450 a 1840; ,,Español
+24920,Arquitectura,PR - Pregrado,Taller Optativo Proyecto I,AQT007U,6,15,,Lo Contador,PR - Presencial,Sí,CLAS = J:1450 a 1840; ,,,TAL = W:1450 a 1840; ,,Español
+24922,Arquitectura,PR - Pregrado,Taller Optativo Proyecto I,AQT007U,7,15,,Lo Contador,PR - Presencial,Sí,,,,TAL = M:1450 a 1840; J:1450 a 1840; ,,Español
+24926,Arquitectura,PR - Pregrado,Taller Optativo Proyecto I,AQT007U,8,15,,Lo Contador,PR - Presencial,Sí,,,,TAL = L:1450 a 1840; J:1450 a 1840; ,,Español
+16124,Arquitectura,PR - Pregrado,Taller Optativo Proyecto II,AQT008A,1,15,,Lo Contador,PR - Presencial,Sí,,,,TAL = M:1450 a 1840; J:1450 a 1840; ,,Español
+16126,Arquitectura,PR - Pregrado,Taller Optativo Proyecto II,AQT008A,2,15,,Lo Contador,PR - Presencial,Sí,CLAS = M:1450 a 1840; W:1450 a 1840; ,,,,,Español
+17460,Arquitectura,PR - Pregrado,Taller Optativo Proyecto II,AQT008A,4,15,,Lo Contador,PR - Presencial,Sí,,,,TAL = M:1450 a 1840; J:1450 a 1840; ,,Español
+24929,Arquitectura,PR - Pregrado,Taller Optativo Proyecto II,AQT008A,5,15,,Lo Contador,PR - Presencial,Sí,,,,TAL = L:1450 a 1840; W:1450 a 1840; ,,Español
+24930,Arquitectura,PR - Pregrado,Taller Optativo Proyecto II,AQT008A,6,15,,Lo Contador,PR - Presencial,Sí,CLAS = J:1450 a 1840; ,,,TAL = W:1450 a 1840; ,,Español
+24931,Arquitectura,PR - Pregrado,Taller Optativo Proyecto II,AQT008A,7,15,,Lo Contador,PR - Presencial,Sí,,,,TAL = M:1450 a 1840; J:1450 a 1840; ,,Español
+24932,Arquitectura,PR - Pregrado,Taller Optativo Proyecto II,AQT008A,8,15,,Lo Contador,PR - Presencial,Sí,,,,TAL = L:1450 a 1840; J:1450 a 1840; ,,Español
+11708,Arquitectura,PR - Pregrado,Ciudad y Paisaje Iii: Urbanism,AQU0300,1,10,,Lo Contador,PR - Presencial,Sí,CLAS = L:1100 a 1330; ,,,TAL = W:0940 a 1050; ,,Español
+17534,Arquitectura,PR - Pregrado,Ciudad y Paisaje IV,AQU0404,1,10,,Lo Contador,PR - Presencial,Sí,CLAS = L:1100 a 1330; ,,,TAL = W:0940 a 1050; ,,Español
+31188,Arquitectura,PR - Pregrado,Oficio Taller Nuev Tec Fabrica,ARQ2004,1,5,,Lo Contador,PR - Presencial,Sí,CLAS = V:1450 a 1720; S:0940 a 1210; ,,,,,Español
+34656,Arquitectura,PR - Pregrado,Oficio Taller Nuev Tec Fabrica,ARQ2004,2,5,,Lo Contador,PR - Presencial,Sí,,,,,,Español
+33033,Arquitectura,PR - Pregrado,Del Edificio al Espacio Public,ARQ2006,1,10,,Casa Central,PR - Presencial,No,CLAS = W:1100 a 1330; ,,,,,Español
+33369,Arquitectura,PR - Pregrado,Del Edificio al Espacio Public,ARQ2006,2,10,,San Joaquín,PR - Presencial,No,CLAS = W:1100 a 1330; ,,,,,Español
+33787,Arquitectura,PR - Pregrado,Del Edificio al Espacio Public,ARQ2006,3,10,,Casa Central,PR - Presencial,No,CLAS = V:1100 a 1330; ,,,,,Español
+33034,Arquitectura,PR - Pregrado,Soluciones Basadas en la Natur,ARQ2007,1,10,,Casa Central,PR - Presencial,No,CLAS = W:1100 a 1330; ,,,,,Español
+33788,Arquitectura,PR - Pregrado,Soluciones Basadas en la Natur,ARQ2007,2,10,,Casa Central,PR - Presencial,No,CLAS = W:0820 a 1050; ,,,,,Español
+32823,Arquitectura,PR - Pregrado,Tu Campus Nuestro Entorno,ARQ2010,2,10,,San Joaquín,PR - Presencial,No,CLAS = W:1100 a 1330; ,,,,,Español
+33786,Arquitectura,PR - Pregrado,Tu Campus Nuestro Entorno,ARQ2010,3,10,,Casa Central,PR - Presencial,No,CLAS = L:1100 a 1330; ,,,,,Español
+34527,Arte,PR - Pregrado,Historia del Arte: Renacimienr,ARO103T,1,10,,Oriente,PR - Presencial,Sí,CLAS = M:1100 a 1330; ,,,,,Español
+27051,Arte,PR - Pregrado,Arte y Patrimonio,ARO105C,1,10,,San Joaquín,PR - Presencial,No,CLAS = V:1100 a 1330; ,,,,,Español
+19769,Arte,PR - Pregrado,Arte Precolombino,ARO105T,1,10,,San Joaquín,PR - Presencial,No,CLAS = W:1100 a 1330; ,,,,,Español
+28498,Arte,PR - Pregrado,Restauracion de Obras de Arte,ARO106C,1,10,,Oriente,PR - Presencial,Sí,CLAS = W:0940 a 1330; ,,,,,Español
+32669,Arte,PR - Pregrado,"Arte, Paisajes y Geogra",ARO107I,1,10,,Oriente,OS - Online Sincrónico,No,CLAS = W:0940 a 1330; ,,,,,Español
+34861,Arte,PR - Pregrado,"Arte, Paisajes y Geogra",ARO107I,2,10,,Oriente,OS - Online Sincrónico,No,CLAS = J:0940 a 1330; ,,,,,Español
+34862,Arte,PR - Pregrado,"Arte, Paisajes y Geogra",ARO107I,3,10,,Oriente,OS - Online Sincrónico,No,CLAS = M:0820 a 1210; ,,,,,Español
+34608,Arte,PR - Pregrado,"Tiempo, Movimiento y Rep",ARO113M,1,10,,Oriente,OS - Online Sincrónico,No,CLAS = W:0820 a 1210; ,,,,,Español
+34610,Arte,PR - Pregrado,"Tiempo, Movimiento y Rep",ARO113M,2,10,,Oriente,OS - Online Sincrónico,No,CLAS = M:1450 a 1840; ,,,,,Español
+32672,Arte,PR - Pregrado,Animacion desde Artes Visuales,ARO114M,1,10,,San Joaquín,PR - Presencial,No,CLAS = ,,,,,Español
+30757,Arte,PR - Pregrado,Animacion Japonesa Aproximac,ARO115M,1,10,,San Joaquín,PR - Presencial,No,CLAS = W:1450 a 1720; ,,,,,Español
+35025,Arte,PR - Pregrado,Apreciación del Arte: Modernid,ARO119T,1,10,,Oriente,PR - Presencial,No,CLAS = L:0820 a 0930; W:0820 a 0930; ,,,,,Español
+32674,Arte,PR - Pregrado,Apreciacion Del Arte,ARO120T,1,10,,San Joaquín,PR - Presencial,No,CLAS = M:1100 a 1330; ,,,,,Español
+34870,Arte,PR - Pregrado,Cristo Y Buda,ARO121T,1,10,,San Joaquín,PR - Presencial,No,CLAS = L:1100 a 1330; ,,,,,Español
+25953,Arte,PR - Pregrado,El Mundo De Las Artes,ARO122T,1,10,,Oriente,PR - Presencial,No,CLAS = V:1100 a 1330; ,,,,,Español
+25968,Arte,PR - Pregrado,Introduccion al Arte,ARO125T,1,10,,Oriente,OS - Online Sincrónico,No,CLAS = L:1100 a 1330; ,,,,,Español
+15917,Astrofísica,PR - Pregrado,Astrofisica Estelar,AST0321,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1100 a 1210; J:1100 a 1210; ,AYU = V:1100 a 1210; ,,,,Español
+15919,Astrofísica,PR - Pregrado,Astrofisica Experimental,AST0421,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:0940 a 1050; J:0940 a 1050; ,AYU = V:0940 a 1050; ,,,,Español
+24790,Astrofísica,PR - Pregrado,Un Paseo por el Universo,AST101,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1220 a 1330; J:1220 a 1330; ,,,,,Español
+30105,Astrofísica,PR - Pregrado,Un Paseo por el Universo,AST101,2,10,,Casa Central,PR - Presencial,Sí,CLAS = M:1610 a 1720; J:1610 a 1720; ,,,,,Español
+32053,Astrofísica,PR - Pregrado,Taller de Astronomia,AST221,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:0940 a 1050; J:0940 a 1050; ,,,,,Español
+30105,Astrofísica,PR - Pregrado,Experiencia Creyente Secularis,AST101,2,10,,San Joaquín,PR - Presencial,No,CLAS = M:1100 a 1210; J:1100 a 1210; ,,,,,Español
+32878,Ciencia Política,MG - Magister,Cortes Constitucionales en Ame,ICP5171,1,10,,San Joaquín,PROS - Presencial y Online Sincrónico,Sí,CLAS = W:2010 a 2120; ,,,,,Español
+21565,Ciencia Política,MG - Magister,Encuesta y Opinion Publica,ICP5193,1,10,,San Joaquín,PROS - Presencial y Online Sincrónico,Sí,CLAS = L:1850 a 2000; ,,,,,Español
+34411,Ciencia Política,MG - Magister,Seminario: Democracia y Medios,ICP5225,1,10,,San Joaquín,PROS - Presencial y Online Sincrónico,Sí,CLAS = M:1850 a 2000; ,,,,,Español
+28050,Ciencia Política,MG - Magister,Relaciones Internacionales Lat,ICP5301,1,10,,San Joaquín,PROS - Presencial y Online Sincrónico,Sí,CLAS = M:1850 a 2000; ,,,,,Español
+29264,Ciencia Política,MG - Magister,Rel Inter entre China y Americ,ICP5425,1,10,,San Joaquín,PROS - Presencial y Online Sincrónico,Sí,CLAS = W:1850 a 2000; ,,,,,Español
+34413,Ciencia Política,MG - Magister,Globalizacion: Caracteristicas,ICP5439,1,10,,San Joaquín,PROS - Presencial y Online Sincrónico,Sí,CLAS = L:1850 a 2000; ,,,,,Español
+34412,Ciencia Política,MG - Magister,Derechos Humanos y Empresas,ICP5440,1,10,,San Joaquín,PROS - Presencial y Online Sincrónico,Sí,CLAS = W:2010 a 2120; ,,,,,Español
+27916,Ciencia Política,MG - Magister,Seguridad Internacional,ICP5453,1,10,,San Joaquín,PROS - Presencial y Online Sincrónico,Sí,CLAS = M:2010 a 2120; ,,,,,Español
+31484,Ciencia Política,MG - Magister,Politicas Sociales,ICP5703,1,10,,San Joaquín,PROS - Presencial y Online Sincrónico,Sí,CLAS = W:1850 a 2000; ,,,,,Español
+29263,Ciencia Política,MG - Magister,El Presupuesto Sector Públic e,ICP5718,1,10,,San Joaquín,PROS - Presencial y Online Sincrónico,Sí,CLAS = M:2010 a 2120; ,,,,,Español
+34266,Ciencia Política,PR - Pregrado,Sistemas Electorales y Calidad,ICP0120,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1610 a 1720; J:1610 a 1720; ,AYU = V:1610 a 1720; ,,,,Español
+11810,Ciencia Política,PR - Pregrado,Teoria Democratica,ICP0127,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1100 a 1210; W:1100 a 1210; ,AYU = V:1220 a 1330; ,,,,Español
+17015,Ciencia Política,PR - Pregrado,Política Chilena,ICP0140,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1610 a 1840; ,AYU = V:1610 a 1720; ,,,,Español
+34267,Ciencia Política,PR - Pregrado,Polit y Socied en el Mun Arabe,ICP0148,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1730 a 1840; J:1730 a 1840; ,AYU = V:1100 a 1210; ,,,,Español
+34276,Ciencia Política,PR - Pregrado,Para Entender Latinoamer Hoy,ICP0154,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1450 a 1600; J:1450 a 1600; ,,,,,Español
+33012,Ciencia Política,PR - Pregrado,Politica y Poder en Chile,ICP0156,1,10,,San Joaquín,PR - Presencial,No,CLAS = L:1220 a 1330; W:1220 a 1330; ,AYU = V:1220 a 1330; ,,,,Español
+33013,Ciencia Política,PR - Pregrado,Democracia Interculturalidad,ICP0158,1,10,,San Joaquín,PR - Presencial,No,CLAS = L:1220 a 1330; W:1220 a 1330; ,AYU = V:1220 a 1330; ,,,,Español
+34441,Ciencia Política,PR - Pregrado,Comunicacion Politica,ICP0160,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1220 a 1330; J:1220 a 1330; ,AYU = V:0940 a 1050; ,,,,Español
+34445,Ciencia Política,PR - Pregrado,"Crimen, Poder y Democracia",ICP0161,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1220 a 1330; W:1220 a 1330; ,AYU = V:1220 a 1330; ,,,,Español
+28749,Ciencia Política,PR - Pregrado,Intro a la Teo Feminista,ICP0211,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1220 a 1330; J:1220 a 1330; ,AYU = V:1220 a 1330; ,,,,Español
+28584,Ciencia Política,PR - Pregrado,Democracia y Ciudadania Sexual,ICP0212,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1610 a 1720; W:1610 a 1720; ,AYU = V:1610 a 1720; ,,,,Español
+34268,Ciencia Política,PR - Pregrado,Resistencia Dominancia Teorias,ICP0214,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1100 a 1210; W:1100 a 1210; ,AYU = V:1100 a 1210; ,,,,Español
+34448,Ciencia Política,PR - Pregrado,La Vida Politica de las Cosas,ICP0218,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1220 a 1330; W:1220 a 1330; ,AYU = V:1450 a 1600; ,,,,Español
+11890,Ciencia Política,PR - Pregrado,Introduccion a las Relaciones,ICP0301,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1220 a 1330; J:1220 a 1330; ,AYU = V:1220 a 1330; ,,,,Español
+34270,Ciencia Política,PR - Pregrado,Seguridad Publica Internaciona,ICP0311,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1610 a 1840; ,AYU = V:1610 a 1720; ,,,,Español
+29743,Ciencia Política,PR - Pregrado,Las Relaciones Exteriores de l,ICP0322,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1450 a 1600; J:1450 a 1600; ,AYU = V:1450 a 1600; ,,,,Español
+11933,Ciencia Política,PR - Pregrado,La Politica de Defensa y Sus D,ICP0325,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1850 a 2000; W:1850 a 2000; ,AYU = J:1610 a 1720; ,,,,Español
+34319,Ciencia Política,PR - Pregrado,Seguridad Humana y Sus Amenaza,ICP0335,2,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1220 a 1330; J:1220 a 1330; ,AYU = V:1220 a 1330; ,,,,Inglés
+29756,Ciencia Política,PR - Pregrado,Gobernanza Global: Orig Caract,ICP0344,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1100 a 1210; J:1100 a 1210; ,AYU = V:1100 a 1210; ,,,,Español
+34273,Ciencia Política,PR - Pregrado,DDHH y Normas Intern sob Gener,ICP0347,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:0940 a 1050; W:0940 a 1050; ,AYU = V:0940 a 1050; ,,,,Español
+29788,Ciencia Política,PR - Pregrado,Desarrollo Institucional Socio,ICP0351,1,10,,San Joaquín,PR - Presencial,No,CLAS = L:1220 a 1330; W:1220 a 1330; ,AYU = V:1450 a 1600; ,,,,Español
+11988,Ciencia Política,PR - Pregrado,Epistemologia y Diseno de la I,ICP0501,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:0940 a 1050; J:0940 a 1050; ,AYU = V:0940 a 1050; ,,,,Español
+11995,Ciencia Política,PR - Pregrado,Analisis de Datos Politicos,ICP0502,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:0940 a 1050; W:0940 a 1050; ,AYU = V:0940 a 1050; ,LAB = M:0940 a 1050; J:0940 a 1050; ,,,Español
+27956,Ciencia Política,PR - Pregrado,Mujeres y Politica en America,ICP0603,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1610 a 1720; J:1610 a 1720; ,AYU = V:0940 a 1050; ,,,,Español
+11273,Ciencias Biológicas,PR - Pregrado,Botanica Marina,BIO120M,1,10,,Casa Central,PR - Presencial,No,CLAS = J:1450 a 1840; ,,,,,Español
+11301,Ciencias Biológicas,PR - Pregrado,Fisiologia,BIO135F,1,10,,San Joaquín,PR - Presencial,No,CLAS = L:0820 a 1050; W:1450 a 1720; ,,,,,Español
+34822,Ciencias Biológicas,PR - Pregrado,Invertebrados Marinos,BIO140M,1,10,,Casa Central,PR - Presencial,No,CLAS = J:0820 a 0930; V:0820 a 1210; ,,,,,Español
+13299,Ciencias Biológicas,PR - Pregrado,Biologia de la Celula,BIO141C,4,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1450 a 1720; ,,,TAL = M:1450 a 1720; ,,Español
+13859,Ciencias Biológicas,PR - Pregrado,Principios  Ecologicos y Medio,BIO143M,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1100 a 1330; J:1100 a 1330; ,,,,,Español
+13865,Ciencias Biológicas,PR - Pregrado,Biologia de Microorganismos,BIO151E,1,10,,Casa Central,PR - Presencial,No,CLAS = L:1220 a 1840; ,,,,,Español
+13864,Ciencias Biológicas,PR - Pregrado,Biologia de Microorganismos,BIO151E,2,10,,Casa Central,PR - Presencial,No,CLAS = J:1220 a 1840; ,,,,,Español
+31345,Ciencias Biológicas,PR - Pregrado,Aspect Biolo y Bioet de la Fer,BIO187C,1,10,,San Joaquín,PR - Presencial,No,CLAS = M:1450 a 1720; ,,,,,Español
+13304,Ciencias Biológicas,PR - Pregrado,Biologia y Diversidad Animal,BIO227E,1,10,,Casa Central,PR - Presencial,No,CLAS = M:1100 a 1330; J:1450 a 1720; ,,,,,Español
+13306,Ciencias Biológicas,PR - Pregrado,Ecologia,BIO231C,1,10,,Casa Central,PR - Presencial,Sí,CLAS = L:1100 a 1330; W:1100 a 1330; ,,,,,Español
+13308,Ciencias Biológicas,PR - Pregrado,Oceanografia General,BIO237M,1,10,,Casa Central,PR - Presencial,No,CLAS = L:1450 a 1720; W:1450 a 1600; ,,,TAL = W:1610 a 1720; ,,Español
+19427,Ciencias Biológicas,PR - Pregrado,Bioestadistica,BIO242C,1,10,AS - Aprendizaje Servicio,Casa Central,PR - Presencial,No,CLAS = L:0940 a 1210; ,,LAB = V:0820 a 1210; ,,,Español
+26824,Ciencias Biológicas,PR - Pregrado,"Laboratorio Bioquimica, Biolog",BIO297C,1,10,,Casa Central,PR - Presencial,No,CLAS = J:0820 a 1330; ,,,,,Español
+13322,Ciencias Biológicas,PR - Pregrado,Trabajo Experimental en Ecolog,BIO298E,1,5,,Casa Central,PR - Presencial,No,CLAS = W:1450 a 1840; ,,,,,Español
+13333,Ciencias Biológicas,PR - Pregrado,Microbiologia y Biotecnologia,BIO331C,1,10,,Casa Central,PR - Presencial,Sí,CLAS = V:1100 a 1330; ,,,TAL = V:1450 a 1600; ,,Español
+21309,Ciencias Biológicas,PR - Pregrado,Biomedicina Celular y Molecula,BIO351C,1,10,,Casa Central,PR - Presencial,Sí,CLAS = M:1450 a 1720; ,,,TAL = W:1100 a 1330; ,,Español
+28748,Ciencias Biológicas,PR - Pregrado,Mamiferos Marinos,BIO358M,1,10,,Casa Central,PR - Presencial,No,CLAS = J:0820 a 1210; ,,,,,Español
+28607,Ciencias Biológicas,PR - Pregrado,Cambio Climatico,BIO366D,1,10,,San Joaquín,PR - Presencial,No,CLAS = V:0820 a 1050; ,,,TAL = V:1100 a 1210; ,,Español
+13351,Ciencias Biológicas,PR - Pregrado,Evolucion,BIO390E,1,10,,Casa Central,PR - Presencial,Sí,CLAS = W:1100 a 1330; ,,,,,Español
+26847,Ciencias Biológicas,PR - Pregrado,Biologia Sinteticas: Maquinas,BIO399E,1,10,,San Joaquín,PR - Presencial,No,CLAS = J:1450 a 1720; ,,,,,Español
+10357,Comunicaciones,PR - Pregrado,Taller de Reportaje Fotografic,COM004,1,10,,Casa Central,PR - Presencial,Sí,CLAS = W:1450 a 1720; ,,,,,Español
+34114,Comunicaciones,PR - Pregrado,Gestion de Crisis Comunicacion,COM014,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1100 a 1330; ,,,,,Español
+29337,Comunicaciones,PR - Pregrado,Multimedia Journalism Workshop,COM024,1,10,,Casa Central,PR - Presencial,Sí,CLAS = M:1450 a 1720; ,,,,,Inglés
+28198,Comunicaciones,PR - Pregrado,Periodismo Deportivo,COM037,1,10,,Casa Central,PR - Presencial,Sí,CLAS = W:1100 a 1330; ,,,,,Español
+19551,Comunicaciones,PR - Pregrado,Industria Editorial para Escri,COM040,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1450 a 1600; W:1450 a 1600; ,,,,,Español
+24276,Comunicaciones,PR - Pregrado,Lenguaje Visual,COM115,4,10,,San Joaquín,PR - Presencial,Sí,CLAS = V:1100 a 1330; ,,,,,Español
+30975,Comunicaciones,PR - Pregrado,Narracion de No Ficcion,COM120,3,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:0820 a 0930; J:0820 a 0930; ,,,,,Español
+31448,Comunicaciones,PR - Pregrado,Semiologia,COM121,3,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1100 a 1210; J:1100 a 1210; ,,,,,Español
+26250,Comunicaciones,PR - Pregrado,Laboratorio de Escucha,COM155,1,10,,Casa Central,PR - Presencial,Sí,,,LAB = W:0820 a 1050; ,,,Español
+10714,Comunicaciones,PR - Pregrado,Analisis de la Actualidad Naci,COM214,1,10,,Casa Central,PR - Presencial,Sí,CLAS = W:0940 a 1050; V:0940 a 1050; ,,,,,Español
+10722,Comunicaciones,PR - Pregrado,Analisis de la Actualidad Inte,COM215,1,10,,Casa Central,PR - Presencial,Sí,CLAS = L:0820 a 1050; ,,,,,Español
+17020,Comunicaciones,PR - Pregrado,Analisis de la Actualidad Inte,COM215,2,10,,Casa Central,PR - Presencial,Sí,CLAS = J:0820 a 1050; ,,,,,Español
+27918,Comunicaciones,PR - Pregrado,Introduccion a la Publicidad,COM404,2,10,,Casa Central,PR - Presencial,Sí,CLAS = L:1610 a 1840; ,,,,,Español
+15468,Comunicaciones,PR - Pregrado,Taller de Animacion,COM605,1,10,,Casa Central,PR - Presencial,Sí,,,,TAL = M:1100 a 1330; ,,Español
+30817,Comunicaciones,PR - Pregrado,Lenguaje del Video Juego,COM617,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1450 a 1720; ,,,,,Español
+22598,Comunicaciones,PR - Pregrado,Taller de Infografia,COM809,1,10,,Casa Central,PR - Presencial,Sí,,,,TAL = M:0940 a 1210; ,,Español
+26750,Comunicaciones,PR - Pregrado,"Desinform, Noticias Falsas y S",COM903,1,10,,Casa Central,PR - Presencial,No,CLAS = L:0940 a 1050; W:0940 a 1050; ,,,,,Español
+17397,Derecho,PR - Pregrado,Instituciones del Estado de De,DER001L,1,10,,Casa Central,PR - Presencial,Sí,CLAS = M:1100 a 1210; W:1100 a 1210; J:1100 a 1210; ,,,,,Español
+18409,Derecho,PR - Pregrado,Derecho Penal Parte General I,DER001P,1,10,,Casa Central,PR - Presencial,Sí,CLAS = L:1220 a 1330; M:1220 a 1330; J:1220 a 1330; ,,,,,Español
+28795,Derecho,PR - Pregrado,Derecho Penal Parte General I,DER001P,2,10,,Casa Central,PR - Presencial,Sí,CLAS = L:1220 a 1330; M:1220 a 1330; J:1220 a 1330; ,,,,,Español
+17307,Derecho,PR - Pregrado,Instituciones Procesales I,DER001R,1,10,,Casa Central,PR - Presencial,Sí,CLAS = L:0940 a 1050; V:0940 a 1050; W:1610 a 1720; ,,,,,Español
+17308,Derecho,PR - Pregrado,Instituciones Procesales I,DER001R,2,10,,Casa Central,PR - Presencial,Sí,CLAS = L:0940 a 1050; W:0940 a 1050; V:0940 a 1050; ,,,,,Español
+17309,Derecho,PR - Pregrado,Instituciones Procesales I,DER001R,3,10,,Casa Central,PR - Presencial,Sí,CLAS = L:1610 a 1720; W:1610 a 1720; V:1220 a 1330; ,,,,,Español
+17310,Derecho,PR - Pregrado,Instituciones Procesales I,DER001R,4,10,,Casa Central,PR - Presencial,Sí,CLAS = L:0940 a 1050; W:0940 a 1050; V:0940 a 1050; ,,,,,Español
+17312,Derecho,PR - Pregrado,Instituciones Procesales I,DER001R,5,10,,Casa Central,PR - Presencial,Sí,CLAS = L:0940 a 1050; W:0940 a 1050; V:0940 a 1050; ,,,,,Español
+22406,Derecho,PR - Pregrado,Instituciones Procesales I,DER001R,6,10,,Casa Central,PR - Presencial,Sí,CLAS = L:0940 a 1050; M:1610 a 1720; W:1610 a 1720; ,,,,,Español
+33453,Derecho,PR - Pregrado,Instituciones Procesales I,DER001R,7,10,,Casa Central,PR - Presencial,Sí,CLAS = L:0940 a 1050; W:0940 a 1050; V:0940 a 1050; ,,,,,Español
+17321,Derecho,PR - Pregrado,Derecho del Trabajo,DER001S,1,10,,Casa Central,PR - Presencial,Sí,CLAS = M:1220 a 1330; W:1220 a 1330; J:1220 a 1330; ,,,,,Español
+17322,Derecho,PR - Pregrado,Derecho del Trabajo,DER001S,2,10,,Casa Central,PR - Presencial,Sí,CLAS = M:1220 a 1330; W:1220 a 1330; J:1220 a 1330; ,,,,,Español
+17323,Derecho,PR - Pregrado,Derecho del Trabajo,DER001S,3,10,,Casa Central,PR - Presencial,Sí,CLAS = M:1220 a 1330; W:1220 a 1330; J:1220 a 1330; ,,,,,Español
+17324,Derecho,PR - Pregrado,Derecho del Trabajo,DER001S,4,10,,Casa Central,PR - Presencial,Sí,CLAS = M:1220 a 1330; W:1220 a 1330; J:1220 a 1330; ,,,,,Español
+20981,Derecho,PR - Pregrado,Derecho del Trabajo,DER001S,5,10,,Casa Central,PR - Presencial,Sí,CLAS = M:1220 a 1330; W:1220 a 1330; J:1220 a 1330; ,,,,,Español
+17320,Derecho,PR - Pregrado,Derecho del Trabajo,DER001S,6,10,,Casa Central,PR - Presencial,Sí,CLAS = L:1450 a 1600; J:1610 a 1720; V:1220 a 1330; ,,,,,Español
+17302,Derecho,PR - Pregrado,Personas y Bienes,DER002C,1,10,,Casa Central,PR - Presencial,Sí,CLAS = L:1100 a 1210; M:1100 a 1210; W:0820 a 0930; ,,,,,Español
+17299,Derecho,PR - Pregrado,Personas y Bienes,DER002C,2,10,,Casa Central,PR - Presencial,Sí,CLAS = L:0820 a 0930; W:0820 a 0930; J:1100 a 1210; ,,,,,Español
+17301,Derecho,PR - Pregrado,Personas y Bienes,DER002C,3,10,,Casa Central,PR - Presencial,Sí,CLAS = M:1450 a 1600; W:0820 a 0930; J:1100 a 1210; ,,,,,Español
+17304,Derecho,PR - Pregrado,Personas y Bienes,DER002C,4,10,,Casa Central,PR - Presencial,Sí,CLAS = L:0820 a 0930; W:0820 a 0930; V:1100 a 1210; ,,,,,Español
+17305,Derecho,PR - Pregrado,Personas y Bienes,DER002C,5,10,,Casa Central,PR - Presencial,Sí,CLAS = L:0820 a 0930; W:0820 a 0930; V:0820 a 0930; ,,,,,Español
+30060,Derecho,PR - Pregrado,Personas y Bienes,DER002C,6,10,,Casa Central,PR - Presencial,Sí,CLAS = L:0820 a 0930; W:0820 a 0930; V:0820 a 0930; ,,,,,Español
+17399,Derecho,PR - Pregrado,Derecho Internacional Publico,DER002L,1,10,,Casa Central,PR - Presencial,Sí,CLAS = L:1100 a 1210; W:1100 a 1210; V:1100 a 1210; ,,,,,Español
+14825,Derecho,PR - Pregrado,Fundamentos Filosoficos del De,DER003F,1,10,,Casa Central,PR - Presencial,Sí,CLAS = L:0940 a 1050; W:0940 a 1050; V:0940 a 1050; ,,,,,Español
+14827,Derecho,PR - Pregrado,Fundamentos Filosoficos del De,DER003F,2,10,,Casa Central,PR - Presencial,Sí,CLAS = L:0940 a 1050; W:0940 a 1050; V:0940 a 1050; ,,,,,Español
+17314,Derecho,PR - Pregrado,Derechos Fundamentales y Derec,DER003L,1,10,,Casa Central,PR - Presencial,Sí,CLAS = M:0940 a 1050; J:0940 a 1050; W:1450 a 1600; ,,,,,Español
+17315,Derecho,PR - Pregrado,Derechos Fundamentales y Derec,DER003L,2,10,,Casa Central,PR - Presencial,Sí,CLAS = M:0940 a 1050; J:0940 a 1050; W:1450 a 1600; ,,,,,Español
+17316,Derecho,PR - Pregrado,Derechos Fundamentales y Derec,DER003L,3,10,,Casa Central,PR - Presencial,Sí,CLAS = M:0940 a 1050; J:0940 a 1050; W:1450 a 1600; ,,,,,Español
+17317,Derecho,PR - Pregrado,Derechos Fundamentales y Derec,DER003L,4,10,,Casa Central,PR - Presencial,Sí,CLAS = M:0940 a 1050; J:0940 a 1050; W:1450 a 1600; ,,,,,Español
+24287,Derecho,PR - Pregrado,Derechos Fundamentales y Derec,DER003L,5,10,,Casa Central,PR - Presencial,Sí,CLAS = M:0940 a 1050; J:0940 a 1050; W:1450 a 1600; ,,,,,Español
+17318,Derecho,PR - Pregrado,Derechos Fundamentales y Derec,DER003L,6,10,,Casa Central,PR - Presencial,Sí,CLAS = L:1220 a 1330; W:1450 a 1720; ,,,,,Español
+18723,Derecho,PR - Pregrado,Derecho Administrativo I,DER004L,1,10,,Casa Central,PR - Presencial,Sí,CLAS = M:0940 a 1050; J:0940 a 1050; W:1450 a 1600; ,,,,,Español
+20861,Derecho,PR - Pregrado,Historia del Derecho,DER005F,1,10,,Casa Central,PR - Presencial,Sí,CLAS = M:1100 a 1210; J:1100 a 1210; W:1220 a 1330; ,,,,,Español
+26165,Derecho,PR - Pregrado,Derecho de Familia,DER006C,1,10,,Casa Central,PR - Presencial,Sí,CLAS = L:0820 a 0930; W:0820 a 0930; V:0820 a 0930; ,,,,,Español
+20716,Derecho,PR - Pregrado,Derecho de Familia,DER006C,2,10,,Casa Central,PR - Presencial,Sí,CLAS = L:0820 a 0930; W:0820 a 0930; V:0820 a 0930; ,,,,,Español
+20718,Derecho,PR - Pregrado,Derecho de Familia,DER006C,3,10,,Casa Central,PR - Presencial,Sí,CLAS = M:0940 a 1050; J:0940 a 1050; W:1100 a 1210; ,,,,,Español
+20719,Derecho,PR - Pregrado,Derecho de Familia,DER006C,4,10,,Casa Central,PR - Presencial,Sí,CLAS = L:1100 a 1210; W:1100 a 1210; V:1100 a 1210; ,,,,,Español
+20717,Derecho,PR - Pregrado,Derecho de Familia,DER006C,5,10,,Casa Central,PR - Presencial,Sí,CLAS = L:1220 a 1330; M:1220 a 1330; J:1220 a 1330; ,,,,,Español
+14765,Derecho,PR - Pregrado,Historia de las Instituciones,DER006F,1,10,,Casa Central,PR - Presencial,Sí,CLAS = L:1220 a 1330; M:1220 a 1330; J:1220 a 1330; ,,,,,Español
+14767,Derecho,PR - Pregrado,Historia de las Instituciones,DER006F,2,10,,Casa Central,PR - Presencial,Sí,CLAS = M:1220 a 1330; J:1220 a 1330; W:0940 a 1050; ,,,,,Español
+14769,Derecho,PR - Pregrado,Historia de las Instituciones,DER006F,3,10,,Casa Central,PR - Presencial,Sí,CLAS = L:1220 a 1330; M:1220 a 1330; J:1220 a 1330; ,,,,,Español
+14768,Derecho,PR - Pregrado,Historia de las Instituciones,DER006F,4,10,,Casa Central,PR - Presencial,Sí,CLAS = L:1220 a 1330; M:1220 a 1330; J:1220 a 1330; ,,,,,Español
+14771,Derecho,PR - Pregrado,Historia de las Instituciones,DER006F,5,10,,Casa Central,PR - Presencial,Sí,CLAS = L:1220 a 1330; M:1220 a 1330; J:1220 a 1330; ,,,,,Español
+14772,Derecho,PR - Pregrado,Historia de las Instituciones,DER006F,6,10,,Casa Central,PR - Presencial,Sí,CLAS = L:1220 a 1330; M:1220 a 1330; J:1220 a 1330; ,,,,,Español
+27152,Derecho,PR - Pregrado,Historia de las Instituciones,DER006F,7,10,,Casa Central,PR - Presencial,Sí,CLAS = L:1220 a 1330; M:1220 a 1330; J:1220 a 1330; ,,,,,Español
+14828,Derecho,PR - Pregrado,Teoria y Fuentes del Derecho,DER007F,1,5,,Casa Central,PR - Presencial,Sí,CLAS = M:1450 a 1600; J:1450 a 1600; ,,,,,Español
+14777,Derecho,PR - Pregrado,Derecho Economico I,DER008F,1,5,,Casa Central,PR - Presencial,Sí,CLAS = M:0820 a 0930; J:0820 a 0930; ,,,,,Español
+14792,Derecho,PR - Pregrado,Derecho Economico I,DER008F,3,5,,Casa Central,PR - Presencial,Sí,CLAS = M:1450 a 1600; J:1450 a 1600; ,,,,,Español
+14799,Derecho,PR - Pregrado,Derecho Economico I,DER008F,5,5,,Casa Central,PR - Presencial,Sí,CLAS = M:0820 a 0930; J:0820 a 0930; ,,,,,Español
+18444,Derecho,PR - Pregrado,Derecho de Sociedades,DER009C,1,10,,Casa Central,PR - Presencial,Sí,CLAS = M:0820 a 0930; J:0820 a 0930; W:1220 a 1330; ,,,,,Español
+18445,Derecho,PR - Pregrado,Derecho de Sociedades,DER009C,2,10,,Casa Central,PR - Presencial,Sí,CLAS = M:0820 a 0930; J:0820 a 0930; W:1220 a 1330; ,,,,,Español
+18447,Derecho,PR - Pregrado,Derecho de Sociedades,DER009C,3,10,,Casa Central,PR - Presencial,Sí,CLAS = M:0820 a 0930; J:0820 a 0930; W:1220 a 1330; ,,,,,Español
+22409,Derecho,PR - Pregrado,Derecho de Sociedades,DER009C,4,10,,Casa Central,PR - Presencial,Sí,CLAS = M:0820 a 0930; J:0820 a 0930; W:1220 a 1330; ,,,,,Español
+18448,Derecho,PR - Pregrado,Derecho de Sociedades,DER009C,5,10,,Casa Central,PR - Presencial,Sí,CLAS = L:1100 a 1210; W:1100 a 1210; M:0820 a 0930; ,,,,,Español
+18446,Derecho,PR - Pregrado,Derecho de Sociedades,DER009C,6,10,,Casa Central,PR - Presencial,Sí,CLAS = M:0820 a 0930; J:0820 a 0930; W:1220 a 1330; ,,,,,Español
+14804,Derecho,PR - Pregrado,Derecho Politico,DER009F,1,5,,Casa Central,PR - Presencial,Sí,CLAS = M:0940 a 1050; J:0940 a 1050; ,,,,,Español
+14805,Derecho,PR - Pregrado,Derecho Politico,DER009F,2,5,,Casa Central,PR - Presencial,Sí,CLAS = M:0940 a 1050; J:0940 a 1050; ,,,,,Español
+14806,Derecho,PR - Pregrado,Derecho Politico,DER009F,3,5,,Casa Central,PR - Presencial,Sí,CLAS = M:0940 a 1050; J:0940 a 1050; ,,,,,Español
+14809,Derecho,PR - Pregrado,Derecho Politico,DER009F,4,5,,Casa Central,PR - Presencial,Sí,CLAS = M:0940 a 1050; J:0940 a 1050; ,,,,,Español
+14810,Derecho,PR - Pregrado,Derecho Politico,DER009F,5,5,,Casa Central,PR - Presencial,Sí,CLAS = M:0940 a 1050; J:0940 a 1050; ,,,,,Español
+14807,Derecho,PR - Pregrado,Derecho Politico,DER009F,6,5,,Casa Central,PR - Presencial,Sí,CLAS = M:0940 a 1050; J:0940 a 1050; ,,,,,Español
+22416,Derecho,PR - Pregrado,Derecho Internacional Privado,DER012C,2,5,,Casa Central,PR - Presencial,Sí,CLAS = W:0940 a 1210; ,,,,,Español
+26650,Derecho,PR - Pregrado,Sust Corpor y Relac con Comuni,DER102E,1,10,,Casa Central,PR - Presencial,No,CLAS = M:1450 a 1720; ,,,,,Español
+33464,Derecho,PR - Pregrado,Sust Corpor y Relac con Comuni,DER102E,2,10,,San Joaquín,PR - Presencial,No,CLAS = M:1450 a 1720; ,,,,,Español
+27848,Derecho,PR - Pregrado,"Razon y Fe, Unidad en la Verda",DER110E,1,10,,San Joaquín,PR - Presencial,No,CLAS = M:1450 a 1600; J:1450 a 1600; ,,,,,Español
+31967,Derecho,PR - Pregrado,"Amor, Amistad y Bien Comun",DER113E,1,10,,San Joaquín,PR - Presencial,No,CLAS = L:1450 a 1600; W:1450 a 1600; ,,,,,Español
+33465,Derecho,PR - Pregrado,"Amor, Amistad y Bien Comun",DER113E,2,10,,Casa Central,PR - Presencial,No,CLAS = M:1220 a 1330; J:1220 a 1330; ,,,,,Español
+23352,Derecho,PR - Pregrado,Derecho de Mineria,DER502C,1,5,,Casa Central,PR - Presencial,No,CLAS = M:1100 a 1210; J:1100 a 1210; ,,,,,Español
+31971,Derecho,PR - Pregrado,International Business Taxatio,DER512G,1,5,,Casa Central,PR - Presencial,No,CLAS = L:1610 a 1720; J:1610 a 1720; ,,,,,Inglés
+31980,Derecho,PR - Pregrado,Constitucion Hist Caso Chileno,DER517L,1,5,,Casa Central,PR - Presencial,No,CLAS = L:1220 a 1330; W:1220 a 1330; ,,,,,Español
+27843,Derecho,PR - Pregrado,Tutela Jurídica del Medio Ambi,DER807L,1,5,,Casa Central,PR - Presencial,No,CLAS = M:1220 a 1330; J:1220 a 1330; ,,,,,Español
+32649,Desarrollo Sustentable,PR - Pregrado,Sistemas Alimentarios Regenera,SUS2001,1,10,,San Joaquín,PR - Presencial,No,CLAS = M:1100 a 1330; ,,,TAL = J:1100 a 1210; ,,Español
+31436,Desarrollo Sustentable,PR - Pregrado,Sustentabilidad Mundos Indigen,SUS2032,1,10,,San Joaquín,PR - Presencial,No,CLAS = W:1100 a 1330; ,AYU = V:0940 a 1050; ,,,,Español
+31449,Desarrollo Sustentable,PR - Pregrado,Pensando en Sistemas,SUS2052,1,10,,San Joaquín,PR - Presencial,No,CLAS = W:1450 a 1720; ,AYU = V:1450 a 1600; ,,,,Español
+31502,Desarrollo Sustentable,PR - Pregrado,"Diseño, Futuro y Sustentabilid",SUS2071,1,10,,San Joaquín,PR - Presencial,No,CLAS = W:1100 a 1330; ,,,,,Español
+35065,Desarrollo Sustentable,PR - Pregrado,"Diseño, Futuro y Sustentabilid",SUS2071,2,10,,Lo Contador,PR - Presencial,No,CLAS = M:1100 a 1330; ,,,,,Español
+31916,Desarrollo Sustentable,PR - Pregrado,Aprendizaje Transformacion Sus,SUS2091,1,10,,San Joaquín,PR - Presencial,No,CLAS = M:1450 a 1720; ,AYU = V:1450 a 1600; ,,,,Español
+34991,Desarrollo Sustentable,PR - Pregrado,"Ciencia, Politica y Politicas",SUS2101,1,10,,San Joaquín,PR - Presencial,No,CLAS = L:1100 a 1210; W:1100 a 1210; ,AYU = V:1100 a 1210; ,,,,Español
+35067,Desarrollo Sustentable,PR - Pregrado,Al Mal Tiempo Buena Cara,SUS2121,1,10,,San Joaquín,PR - Presencial,No,CLAS = M:1100 a 1330; ,,,TAL = V:1450 a 1600; ,,Español
+31427,Desarrollo Sustentable,PR - Pregrado,Biomimesis: Sol Des Glob Natur,SUS2131,1,10,,San Joaquín,PR - Presencial,No,CLAS = M:1100 a 1330; ,,,TAL = M:1450 a 1600; ,,Español
+34149,Desarrollo Sustentable,PR - Pregrado,Descarbonizacion Energetica,SUS2141,1,10,,San Joaquín,PR - Presencial,No,CLAS = M:1100 a 1330; ,,,TAL = M:0940 a 1050; ,,Español
+34150,Desarrollo Sustentable,PR - Pregrado,Nuevas Economias y Gestion,SUS2151,1,10,,San Joaquín,PR - Presencial,No,CLAS = L:1450 a 1720; ,AYU = V:1450 a 1600; ,,,,Español
+35066,Desarrollo Sustentable,PR - Pregrado,Regeneracion Sistemas Naturale,SUS2161,1,10,,San Joaquín,PR - Presencial,No,CLAS = J:1450 a 1720; ,AYU = J:1730 a 1840; ,,,,Español
+32648,Desarrollo Sustentable,PR - Pregrado,Ancestros para Futuro Sustenta,SUS2171,1,10,,San Joaquín,PR - Presencial,No,CLAS = L:1220 a 1600; ,AYU = V:1450 a 1600; ,,,,Español
+32624,Desarrollo Sustentable,PR - Pregrado,Repensando la Naturaleza,SUS2191,1,10,,San Joaquín,PR - Presencial,No,CLAS = L:1100 a 1330; ,,,,,Español
+34694,Diseño,PR - Pregrado,Iluminacion,ADE2201,1,10,,Lo Contador,PR - Presencial,Sí,CLAS = J:0820 a 1050; ,,,,,Español
+10457,Diseño,PR - Pregrado,Manejo y Aplicacion del Color,DNO004,1,10,,Lo Contador,PR - Presencial,Sí,CLAS = J:1100 a 1330; ,,,,,Español
+22707,Diseño,PR - Pregrado,Fotografiar Hoy,DNO020,1,10,,Lo Contador,PR - Presencial,Sí,CLAS = W:0820 a 1050; ,,,,,Español
+10577,Diseño,PR - Pregrado,Diseno y Nuevas Tendencias de,DNO031,1,10,,Lo Contador,PR - Presencial,Sí,CLAS = J:1100 a 1330; ,,,,,Español
+25994,Diseño,PR - Pregrado,Del Plano al Volumen Textil,DNO040,1,10,,Lo Contador,PR - Presencial,Sí,CLAS = M:1100 a 1330; ,,,,,Español
+29915,Diseño,PR - Pregrado,Pensar la Artesania. Bases par,DNO044,1,10,,Lo Contador,PR - Presencial,Sí,CLAS = J:1100 a 1330; ,,,,,Español
+26206,Diseño,PR - Pregrado,Nuevas Tendencias en el Diseno,DNO050,1,10,,Lo Contador,PR - Presencial,Sí,CLAS = L:0820 a 1050; ,,,,,Español
+34696,Diseño,PR - Pregrado,Introduccion al Diseno de Pack,DNO057,1,10,,Lo Contador,PR - Presencial,Sí,CLAS = M:0820 a 1050; ,,,,,Español
+34700,Diseño,PR - Pregrado,Revolución Textil,DNO068,1,10,,Lo Contador,PR - Presencial,Sí,CLAS = L:1100 a 1330; ,,,,,Español
+34715,Diseño,PR - Pregrado,Textiles Andinos,DNO072,1,10,,Lo Contador,PR - Presencial,Sí,CLAS = W:1100 a 1330; ,,,,,Español
+29919,Diseño,PR - Pregrado,Narrativas inmersivas Aprendiz,DNO089,1,10,,Lo Contador,PR - Presencial,Sí,CLAS = M:0820 a 1050; ,,,,,Español
+31234,Diseño,PR - Pregrado,La Resistencia de las Imagenes,DNO151,1,10,,Lo Contador,PR - Presencial,Sí,CLAS = V:1100 a 1330; ,,,,,Español
+33020,Diseño,PR - Pregrado,Diseno Indume Reciclaje Textil,DNO156,1,10,,Lo Contador,PR - Presencial,Sí,CLAS = J:1100 a 1330; ,,,,,Español
+33021,Diseño,PR - Pregrado,Tejeduria Contemporanea,DNO157,1,10,,Lo Contador,PR - Presencial,Sí,CLAS = L:1450 a 1720; ,,,,,Español
+33022,Diseño,PR - Pregrado,Identidad Visual y Branding,DNO159,1,10,,Lo Contador,PR - Presencial,Sí,CLAS = V:1100 a 1330; ,,,,,Español
+10873,Diseño,PR - Pregrado,Tipografia y Diagramacion,DNO2750,1,10,,Lo Contador,PR - Presencial,Sí,CLAS = M:1100 a 1330; ,,,,,Español
+31336,Economía y Administración,MG - Magister,Gestion del Cambio Estrategias,EAA3012,1,10,AS - Aprendizaje Servicio,San Joaquín,PR - Presencial,Sí,CLAS = J:1450 a 1720; ,,,,,Español
+32810,Economía y Administración,MG - Magister,Aplicaciones de Metodos Estadi,EAA3051,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1100 a 1210; J:1100 a 1210; ,,,,,Español
+28589,Economía y Administración,MG - Magister,Aprendizaje en Organizaciones,EAA3113,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:0940 a 1050; W:0940 a 1050; ,,,,,Español
+31285,Economía y Administración,MG - Magister,Direccion Financiera,EAA3201,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1100 a 1210; J:1100 a 1210; ,AYU = V:1100 a 1210; ,,,,Español
+34440,Economía y Administración,MG - Magister,Direccion Financiera,EAA3201,4,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:0940 a 1050; W:0940 a 1050; ,AYU = V:1100 a 1210; ,,,,Español
+31338,Economía y Administración,MG - Magister,Inversion Activos Alternativos,EAA3218,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = W:0820 a 1050; ,AYU = L:0820 a 0930; ,,,,Español
+10914,Economía y Administración,MG - Magister,Teoria de Finanzas Corporativa,EAA3220,1,12,,San Joaquín,PR - Presencial,Sí,CLAS = L:1450 a 1720; ,AYU = V:0940 a 1050; ,,,,Español
+34600,Economía y Administración,MG - Magister,Derivados Financieros,EAA3251,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1220 a 1330; W:1220 a 1330; ,AYU = J:1730 a 1840; ,,,,Español
+32812,Economía y Administración,MG - Magister,Aplicaciones Finanzas con Mach,EAA3255,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:0820 a 1050; ,,,,,Español
+34612,Economía y Administración,MG - Magister,Estrategia Precio y Promocion,EAA3345,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1100 a 1210; J:1100 a 1210; ,AYU = V:0820 a 0930; ,,,,Español
+31339,Economía y Administración,MG - Magister,Estrategia de Canales de Distr,EAA3361,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1220 a 1330; J:1220 a 1330; ,AYU = V:0940 a 1050; ,,,,Español
+34617,Economía y Administración,MG - Magister,Politica Precios y Negociacion,EAA3384,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1730 a 1840; W:1730 a 1840; ,AYU = W:1850 a 2000; ,,,,Español
+34628,Economía y Administración,MG - Magister,Marketing Empresas Servicios,EAA3387,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1450 a 1720; ,AYU = V:1450 a 1600; ,,,,Español
+34632,Economía y Administración,MG - Magister,Experiencia Cliente: Diseño,EAA3391,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:0940 a 1050; J:0940 a 1050; ,AYU = J:0820 a 0930; ,,,,Español
+31267,Economía y Administración,MG - Magister,Direcc de Empres y Estrategia,EAA3401,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1450 a 1720; ,AYU = V:1610 a 1720; ,,,,Español
+31269,Economía y Administración,MG - Magister,Direcc de Empres y Estrategia,EAA3401,2,10,,San Joaquín,PR - Presencial,Sí,CLAS = W:1450 a 1720; ,AYU = V:1610 a 1720; ,,,,Español
+31273,Economía y Administración,MG - Magister,Direcc de Empres y Estrategia,EAA3401,3,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1100 a 1210; W:1100 a 1210; ,AYU = V:1610 a 1720; ,,,,Español
+34641,Economía y Administración,MG - Magister,Seminario Admin Recurs Humanos,EAA3491,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:0940 a 1050; W:0940 a 1050; ,AYU = L:1220 a 1330; ,,,,Español
+26286,Economía y Administración,MG - Magister,Gestion de Operaciones,EAA3501,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1450 a 1720; ,AYU = V:1220 a 1330; ,,,,Español
+31254,Economía y Administración,MG - Magister,Gestion de Operaciones,EAA3501,2,10,,San Joaquín,PR - Presencial,Sí,CLAS = J:1450 a 1720; ,AYU = V:1220 a 1330; ,,,,Español
+31256,Economía y Administración,MG - Magister,Gestion de Operaciones,EAA3501,3,10,,San Joaquín,PR - Presencial,Sí,CLAS = W:1450 a 1720; ,AYU = V:1220 a 1330; ,,,,Español
+34644,Economía y Administración,MG - Magister,Empresa Familiares Decis Relev,EAA3751,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1450 a 1720; ,AYU = M:1730 a 1840; ,,,,Español
+24067,Economía y Administración,PR - Pregrado,Comportamiento Organizacional,EAA1110,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:0940 a 1050; J:0940 a 1050; ,AYU = J:1610 a 1720; ,,,,Español
+34132,Economía y Administración,PR - Pregrado,Comportamiento Organizacional,EAA1110,2,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1220 a 1330; J:1220 a 1330; ,AYU = J:1610 a 1720; ,,,,Español
+24069,Economía y Administración,PR - Pregrado,Contabilidad,EAA1210,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1220 a 1330; W:1220 a 1330; ,AYU = V:0940 a 1050; ,,TAL = L:1730 a 1840; ,,Español
+24070,Economía y Administración,PR - Pregrado,Contabilidad,EAA1210,2,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:0820 a 0930; W:0820 a 0930; ,AYU = V:0940 a 1050; ,,TAL = L:1730 a 1840; ,,Español
+24805,Economía y Administración,PR - Pregrado,Contabilidad,EAA1210,3,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:0820 a 0930; J:0820 a 0930; ,AYU = V:0940 a 1050; ,,TAL = L:1730 a 1840; ,,Español
+25843,Economía y Administración,PR - Pregrado,Fundamentos de Finanzas,EAA1220,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1100 a 1210; J:1100 a 1210; ,AYU = V:0820 a 0930; ,,TAL = L:1730 a 1840; ,,Español
+25844,Economía y Administración,PR - Pregrado,Fundamentos de Finanzas,EAA1220,2,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:0940 a 1050; W:0940 a 1050; ,AYU = V:0820 a 0930; ,,TAL = L:1730 a 1840; ,,Español
+25845,Economía y Administración,PR - Pregrado,Fundamentos de Finanzas,EAA1220,3,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1100 a 1210; W:1100 a 1210; ,AYU = V:0820 a 0930; ,,TAL = L:1730 a 1840; ,,Español
+27526,Economía y Administración,PR - Pregrado,Fundamentos de Finanzas,EAA1220,4,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1220 a 1330; J:1220 a 1330; ,AYU = V:0820 a 0930; ,,TAL = L:1730 a 1840; ,,Español
+34785,Economía y Administración,PR - Pregrado,Fundamentos de Finanzas,EAA1220,5,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:0820 a 0930; J:0820 a 0930; ,AYU = V:0820 a 0930; ,,TAL = L:1730 a 1840; ,,Español
+24079,Economía y Administración,PR - Pregrado,Probabilidad y Estadistica,EAA1510,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1100 a 1210; W:1100 a 1210; ,AYU = V:0820 a 0930; ,,,,Español
+24080,Economía y Administración,PR - Pregrado,Probabilidad y Estadistica,EAA1510,2,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1220 a 1330; W:1220 a 1330; ,AYU = V:0820 a 0930; ,,,,Español
+24081,Economía y Administración,PR - Pregrado,Probabilidad y Estadistica,EAA1510,3,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1450 a 1600; W:1450 a 1600; ,AYU = V:0820 a 0930; ,,,,Español
+24082,Economía y Administración,PR - Pregrado,Probabilidad y Estadistica,EAA1510,4,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:0940 a 1050; W:0940 a 1050; ,AYU = V:0820 a 0930; ,,,,Español
+34189,Economía y Administración,PR - Pregrado,Probabilidad y Estadistica,EAA1510,5,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1220 a 1330; J:1220 a 1330; ,AYU = V:0820 a 0930; ,,,,Español
+25834,Economía y Administración,PR - Pregrado,Inferencia Estadistica,EAA1520,3,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:0820 a 0930; J:0820 a 0930; ,AYU = L:1610 a 1720; ,LAB = J:1220 a 1330; ,,,Español
+28739,Economía y Administración,PR - Pregrado,Inferencia Estadistica,EAA1520,4,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1100 a 1210; W:1100 a 1210; ,AYU = L:1610 a 1720; ,LAB = J:1610 a 1720; ,,,Español
+34429,Economía y Administración,PR - Pregrado,Estrategias Competitivas Pla,EAA2018,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:0820 a 0930; W:0820 a 0930; ,,,,,Español
+10504,Economía y Administración,PR - Pregrado,Topicos para Emprender I: Mark,EAA201E,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = J:1450 a 1720; ,,,,,Español
+29452,Economía y Administración,PR - Pregrado,Innovacion y Tecnologias Emerg,EAA2072,1,5,,San Joaquín,PR - Presencial,Sí,CLAS = W:1100 a 1210; ,,,,,Español
+35068,Economía y Administración,PR - Pregrado,Financiamiento de Startups,EAA2075,1,5,,San Joaquín,PR - Presencial,Sí,CLAS = W:1220 a 1330; ,,,,,Español
+31625,Economía y Administración,PR - Pregrado,Met Agiles Innovacion Empresar,EAA2079,1,5,,San Joaquín,PR - Presencial,Sí,CLAS = M:1220 a 1330; J:1220 a 1330; ,,,,,Español
+32755,Economía y Administración,PR - Pregrado,Estrategia de la Innovacion,EAA207C,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:0940 a 1050; W:0940 a 1050; ,,,,,Español
+32759,Economía y Administración,PR - Pregrado,Innovacion Sistemica y Ecosist,EAA2080,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = J:0940 a 1210; ,,,,,Español
+31261,Economía y Administración,PR - Pregrado,Gestion de la Innovacion,EAA2081,1,5,,San Joaquín,PR - Presencial,Sí,CLAS = W:0820 a 0930; ,AYU = L:0820 a 0930; ,,,,Español
+10554,Economía y Administración,PR - Pregrado,Desafios en la Creacion de Emp,EAA208E,1,10,,Lo Contador,PR - Presencial,Sí,CLAS = J:1450 a 1720; ,,,,,Español
+28637,Economía y Administración,PR - Pregrado,Fundamentos de la Teoria y Pra,EAA2091,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1450 a 1600; W:1450 a 1600; ,,,,,Español
+31260,Economía y Administración,PR - Pregrado,Design Thinking para los Negoc,EAA209L,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1220 a 1330; W:1220 a 1330; ,,,,,Inglés
+34432,Economía y Administración,PR - Pregrado,Design Thinking para los Negoc,EAA209L,2,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:0820 a 0930; J:0820 a 0930; ,,,,,Español
+10574,Economía y Administración,PR - Pregrado,Fundamentos de Gestion Financi,EAA210E,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = W:1450 a 1720; ,,,,,Español
+29429,Economía y Administración,PR - Pregrado,Direccion de Personas,EAA2110,1,10,AS - Aprendizaje Servicio,San Joaquín,PR - Presencial,Sí,CLAS = M:0940 a 1050; J:0940 a 1050; ,AYU = W:1730 a 1840; ,,,,Español
+29430,Economía y Administración,PR - Pregrado,Direccion de Personas,EAA2110,2,10,AS - Aprendizaje Servicio,San Joaquín,PR - Presencial,Sí,CLAS = M:1100 a 1210; J:1100 a 1210; ,AYU = W:1730 a 1840; ,,,,Español
+29431,Economía y Administración,PR - Pregrado,Direccion de Personas,EAA2110,3,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1100 a 1210; W:1100 a 1210; ,AYU = W:1730 a 1840; ,,,,Español
+27567,Economía y Administración,PR - Pregrado,Teoria Financiera,EAA2210,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1450 a 1600; J:1450 a 1600; ,AYU = V:0820 a 0930; ,,,,Español
+27568,Economía y Administración,PR - Pregrado,Teoria Financiera,EAA2210,2,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1610 a 1720; J:1610 a 1720; ,AYU = V:0820 a 0930; ,,,,Español
+29261,Economía y Administración,PR - Pregrado,Teoria Financiera,EAA2210,3,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:0940 a 1050; W:0940 a 1050; ,AYU = V:0820 a 0930; ,,,,Español
+29453,Economía y Administración,PR - Pregrado,Finanzas Internacionales,EAA2225,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = W:0820 a 1050; ,AYU = L:0820 a 0930; ,,,,Inglés
+27558,Economía y Administración,PR - Pregrado,Empresa y Legislacion,EAA2230,1,5,,San Joaquín,PR - Presencial,Sí,CLAS = M:0940 a 1050; J:0940 a 1050; ,,,,,Español
+27562,Economía y Administración,PR - Pregrado,Empresa y Legislacion,EAA2230,2,5,,San Joaquín,PR - Presencial,Sí,CLAS = M:1450 a 1600; J:1450 a 1600; ,AYU = J:1730 a 1840; ,,,,Español
+27564,Economía y Administración,PR - Pregrado,Empresa y Legislacion,EAA2230,3,5,,San Joaquín,PR - Presencial,Sí,CLAS = L:1220 a 1330; W:1220 a 1330; ,AYU = J:1730 a 1840; ,,,,Español
+29455,Economía y Administración,PR - Pregrado,Fintech: Aplicaciones Financie,EAA2234,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = J:0820 a 1050; ,,,,,Inglés
+29456,Economía y Administración,PR - Pregrado,Topicos en Finanzas Corporativ,EAA2235,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1220 a 1330; W:1100 a 1330; ,,,,,Español
+28960,Economía y Administración,PR - Pregrado,Contabilidad Gerencial,EAA2240,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1100 a 1210; J:1100 a 1210; ,AYU = V:0820 a 0930; ,,,,Español
+28962,Economía y Administración,PR - Pregrado,Contabilidad Gerencial,EAA2240,2,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:0820 a 0930; W:0820 a 0930; ,AYU = V:0820 a 0930; ,,,,Español
+31229,Economía y Administración,PR - Pregrado,Contabilidad Gerencial,EAA2240,3,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:0940 a 1050; W:0940 a 1050; ,AYU = V:0820 a 0930; ,,,,Español
+10669,Economía y Administración,PR - Pregrado,Seminario de Finanzas,EAA224A,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:0940 a 1210; M:0940 a 1050; ,,,,,Español
+25857,Economía y Administración,PR - Pregrado,Fundamentos de Marketing,EAA2310,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1100 a 1210; J:1100 a 1210; ,AYU = V:0940 a 1050; ,,,,Español
+25858,Economía y Administración,PR - Pregrado,Fundamentos de Marketing,EAA2310,2,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1100 a 1210; W:1100 a 1210; ,AYU = V:0940 a 1050; ,,,,Español
+25859,Economía y Administración,PR - Pregrado,Fundamentos de Marketing,EAA2310,3,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:0940 a 1050; J:0940 a 1050; ,AYU = V:0940 a 1050; ,,,,Español
+25860,Economía y Administración,PR - Pregrado,Fundamentos de Marketing,EAA2310,4,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1220 a 1330; J:1220 a 1330; ,AYU = V:0940 a 1050; ,,,,Español
+27576,Economía y Administración,PR - Pregrado,Fundamentos de Marketing,EAA2310,5,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1450 a 1600; J:1450 a 1600; ,AYU = V:0940 a 1050; ,,,,Español
+27585,Economía y Administración,PR - Pregrado,Marketing Analytics,EAA2320,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1100 a 1210; W:1100 a 1210; ,AYU = V:0940 a 1050; ,,,,Español
+27596,Economía y Administración,PR - Pregrado,Marketing Analytics,EAA2320,2,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1220 a 1330; W:1220 a 1330; ,AYU = V:0940 a 1050; ,,,,Español
+27599,Economía y Administración,PR - Pregrado,Marketing Analytics,EAA2320,3,10,,San Joaquín,PR - Presencial,Sí,CLAS = W:0820 a 1050; ,AYU = V:0940 a 1050; ,,,,Español
+29426,Economía y Administración,PR - Pregrado,Marketing Analytics,EAA2320,4,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1730 a 2000; ,AYU = V:0940 a 1050; ,,,,Español
+29454,Economía y Administración,PR - Pregrado,Sostenibilidad Empresarial,EAA2402,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1450 a 1720; ,AYU = J:1450 a 1600; ,,,,Español
+24074,Economía y Administración,PR - Pregrado,Estrategia de la Organizacion,EAA2410,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:0940 a 1050; J:0940 a 1050; ,AYU = V:0820 a 0930; ,,,,Español
+25855,Economía y Administración,PR - Pregrado,Estrategia de la Organizacion,EAA2410,2,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1220 a 1330; W:1220 a 1330; ,AYU = V:0820 a 0930; ,,,,Español
+25856,Economía y Administración,PR - Pregrado,Estrategia de la Organizacion,EAA2410,3,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1450 a 1600; W:1450 a 1600; ,AYU = V:0820 a 0930; ,,,,Español
+34177,Economía y Administración,PR - Pregrado,Estrategia de la Organizacion,EAA2410,4,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:0820 a 0930; J:0820 a 0930; ,AYU = V:0820 a 0930; ,,,,Español
+27635,Economía y Administración,PR - Pregrado,Estrategia Competitiva,EAA2420,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1450 a 1600; W:1450 a 1600; ,AYU = V:1100 a 1210; ,,,,Español
+27636,Economía y Administración,PR - Pregrado,Estrategia Competitiva,EAA2420,2,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1610 a 1720; W:1610 a 1720; ,AYU = V:1100 a 1210; ,,,,Español
+32741,Economía y Administración,PR - Pregrado,Estrategia Competitiva,EAA2420,3,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:0940 a 1050; J:0940 a 1050; ,AYU = V:1100 a 1210; ,,,,Español
+34548,Economía y Administración,PR - Pregrado,Principios de la Seguridad Pub,EAA2461,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1100 a 1210; W:1100 a 1210; ,,,,,Español
+34435,Economía y Administración,PR - Pregrado,International Business for Glo,EAA2710,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1220 a 1330; W:1220 a 1330; ,,,,,Inglés
+32789,Economía y Administración,PR - Pregrado,Creacion y Direccion de ONGs,EAA2831,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:0940 a 1210; ,,,,,Español
+34590,Economía y Administración,PR - Pregrado,Gestion de Inversiones,EAA306D,1,12,,San Joaquín,PR - Presencial,Sí,CLAS = M:1100 a 1210; J:1100 a 1210; ,AYU = V:0820 a 0930; ,,,,Español
+33532,Economía y Administración,PR - Pregrado,Fin Cuanti y Gest de Riesgo,EAA3215,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = J:0820 a 1050; ,,,,,Español
+17529,Economía y Administración,PR - Pregrado,Decisiones de Inversion Financ,EAA322A,1,12,,San Joaquín,PR - Presencial,Sí,CLAS = M:1220 a 1330; J:1220 a 1330; ,,,,,Español
+34605,Economía y Administración,PR - Pregrado,Eficienc del Mercad Financiero,EAA326C,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = J:1450 a 1720; ,AYU = V:1450 a 1600; ,,,,Español
+28316,Economía y Administración,PR - Pregrado,Topicos de Mercado:Marketing I,EAA338C,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = J:1450 a 1720; ,,,,,Español
+34615,Economía y Administración,PR - Pregrado,Impacto Social y Modelos de Cr,EAA371A,1,12,,San Joaquín,PR - Presencial,Sí,CLAS = L:1450 a 1720; ,,,,,Español
+16498,Economía y Administración,PR - Pregrado,Introduccion a la Economia,EAE105A,10,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:0820 a 0930; J:0820 a 0930; ,AYU = V:0820 a 0930; ,,TAL = J:1730 a 1840; ,,Español
+24099,Economía y Administración,PR - Pregrado,Intro a la Microeconomia,EAE1110,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1100 a 1210; W:1100 a 1210; ,AYU = V:1100 a 1210; ,,TAL = W:1730 a 1840; ,,Español
+24100,Economía y Administración,PR - Pregrado,Intro a la Microeconomia,EAE1110,2,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:0820 a 0930; W:0820 a 0930; ,AYU = V:1100 a 1210; ,,TAL = W:1730 a 1840; ,,Español
+24101,Economía y Administración,PR - Pregrado,Intro a la Microeconomia,EAE1110,3,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:0820 a 0930; J:0820 a 0930; ,AYU = V:1100 a 1210; ,,TAL = W:1730 a 1840; ,,Español
+24113,Economía y Administración,PR - Pregrado,Introduccion a la Macroeconomi,EAE1210,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1100 a 1210; J:1100 a 1210; ,AYU = V:1100 a 1210; ,,TAL = W:1730 a 1840; ,,Español
+24114,Economía y Administración,PR - Pregrado,Introduccion a la Macroeconomi,EAE1210,2,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:0820 a 0930; J:0820 a 0930; ,AYU = V:1100 a 1210; ,,TAL = W:1730 a 1840; ,,Español
+24115,Economía y Administración,PR - Pregrado,Introduccion a la Macroeconomi,EAE1210,3,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:0820 a 0930; W:0820 a 0930; ,AYU = V:1100 a 1210; ,,TAL = W:1730 a 1840; ,,Español
+24116,Economía y Administración,PR - Pregrado,Introduccion a la Macroeconomi,EAE1210,4,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1100 a 1210; J:1100 a 1210; ,AYU = V:1100 a 1210; ,,TAL = W:1730 a 1840; ,,Español
+24117,Economía y Administración,PR - Pregrado,Introduccion a la Macroeconomi,EAE1210,5,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:0820 a 0930; W:0820 a 0930; ,AYU = V:1100 a 1210; ,,TAL = W:1730 a 1840; ,,Español
+24118,Economía y Administración,PR - Pregrado,Introduccion a la Macroeconomi,EAE1210,6,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:0940 a 1050; J:0940 a 1050; ,AYU = V:1100 a 1210; ,,TAL = W:1730 a 1840; ,,Español
+34712,Economía y Administración,PR - Pregrado,Introduccion a la Macroeconomi,EAE1210,7,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:0820 a 0930; W:0820 a 0930; ,AYU = V:1100 a 1210; ,,TAL = W:1730 a 1840; ,,Español
+25839,Economía y Administración,PR - Pregrado,Analis Econom: Experie Chilena,EAE1220,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1450 a 1600; W:1450 a 1600; ,AYU = V:1100 a 1210; ,,TAL = W:1730 a 1840; ,,Español
+25840,Economía y Administración,PR - Pregrado,Analis Econom: Experie Chilena,EAE1220,2,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1100 a 1210; J:1100 a 1210; ,AYU = V:1100 a 1210; ,,TAL = W:1730 a 1840; ,,Español
+25841,Economía y Administración,PR - Pregrado,Analis Econom: Experie Chilena,EAE1220,3,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1220 a 1330; J:1220 a 1330; ,AYU = V:1100 a 1210; ,,TAL = W:1730 a 1840; ,,Español
+25842,Economía y Administración,PR - Pregrado,Analis Econom: Experie Chilena,EAE1220,4,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:0820 a 0930; W:0820 a 0930; ,AYU = V:1100 a 1210; ,,TAL = W:1730 a 1840; ,,Español
+25851,Economía y Administración,PR - Pregrado,Microeconomia I,EAE2110,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1450 a 1600; J:1450 a 1600; ,AYU = V:1220 a 1330; ,,,,Español
+25852,Economía y Administración,PR - Pregrado,Microeconomia I,EAE2110,2,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1610 a 1720; J:1610 a 1720; ,AYU = V:1220 a 1330; ,,,,Español
+25853,Economía y Administración,PR - Pregrado,Microeconomia I,EAE2110,3,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:0820 a 0930; W:0820 a 0930; ,AYU = V:1220 a 1330; ,,,,Español
+25854,Economía y Administración,PR - Pregrado,Microeconomia I,EAE2110,4,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1450 a 1600; W:1450 a 1600; ,AYU = V:1220 a 1330; ,,,,Español
+33582,Economía y Administración,PR - Pregrado,Microeconomia I,EAE2110,5,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1100 a 1210; J:1100 a 1210; ,AYU = V:1220 a 1330; ,,,,Español
+33046,Economía y Administración,PR - Pregrado,Economía del Comportamiento,EAE2113,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1610 a 1720; W:1610 a 1720; ,AYU = J:1610 a 1720; ,,,,Español
+27747,Economía y Administración,PR - Pregrado,Microeconomia II,EAE2120,4,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:0820 a 0930; W:0820 a 0930; ,AYU = V:1100 a 1210; ,,,,Inglés
+31383,Economía y Administración,PR - Pregrado,Topicos Microfinancieros,EAE2228,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:0820 a 0930; J:0820 a 0930; J:0940 a 1050; ,,,,,Español
+31384,Economía y Administración,PR - Pregrado,Economia Politica,EAE2275,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = W:0940 a 1210; ,AYU = L:0820 a 0930; ,,,,Español
+34744,Economía y Administración,PR - Pregrado,Economics of Global Competitio,EAE2411,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1100 a 1210; W:1100 a 1210; ,AYU = W:1450 a 1600; ,,,,Inglés
+34743,Economía y Administración,PR - Pregrado,International Trade in a Globa,EAE2415,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:0940 a 1050; W:0940 a 1050; ,AYU = M:1450 a 1600; ,,,,Inglés
+31741,Economía y Administración,PR - Pregrado,Politica Publica accion contra,EAE2615,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:0940 a 1050; W:0940 a 1050; ,AYU = V:0940 a 1050; ,,,,Español
+20935,Economía y Administración,PR - Pregrado,Economia y Evaluacion de las P,EAE262B,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1220 a 1330; J:1220 a 1330; ,AYU = J:1610 a 1720; ,,,,Español
+24146,Economía y Administración,PR - Pregrado,Historia Economica de Chile,EAE282B,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1220 a 1330; J:1220 a 1330; ,AYU = J:1610 a 1720; ,,,,Español
+31386,Economía y Administración,PR - Pregrado,Historia del Pensamiento Econo,EAE285A,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1220 a 1330; W:1220 a 1330; ,AYU = J:1450 a 1600; ,,,,Español
+29734,Economía y Administración,PR - Pregrado,Como ser Lider en el siglo XXI,EAG110A,1,10,,San Joaquín,PR - Presencial,No,CLAS = M:1220 a 1330; J:1220 a 1330; ,,,,,Español
+27803,Economía y Administración,PR - Pregrado,Finanzas Personales,EAG120A,1,10,,San Joaquín,PR - Presencial,No,CLAS = M:1450 a 1600; J:1450 a 1600; ,AYU = J:1610 a 1720; ,,,,Español
+27812,Economía y Administración,PR - Pregrado,Resol Creativa de Problemas,EAG170A,1,10,,San Joaquín,PR - Presencial,No,CLAS = L:0940 a 1050; W:0940 a 1050; ,AYU = V:0940 a 1050; ,,,,Español
+27816,Economía y Administración,PR - Pregrado,Explorando el Mundo del Trabaj,EAG190A,1,10,,San Joaquín,PR - Presencial,No,CLAS = M:1450 a 1600; J:1450 a 1600; ,AYU = V:1450 a 1600; ,,,,Español
+32812,Economía y Administración,MG - Magister,El Arte y lo Sagrado,EAA3255,1,10,,San Joaquín,PR - Presencial,No,CLAS = L:0940 a 1050; W:0940 a 1050; ,,,,,Español
+33341,Educación,PR - Pregrado,"Patrimonio, Memoria Historica",EDU0027,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1450 a 1720; ,,,,,Español
+21065,Educación,PR - Pregrado,Juego y Aprendizaje,EDU0032,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1450 a 1720; ,,,,,Español
+15274,Educación,PR - Pregrado,Desarrollo y Aprendizaje del A,EDU0160,2,10,,San Joaquín,PR - Presencial,Sí,CLAS = W:0820 a 1050; ,,,,,Español
+34520,Educación,PR - Pregrado,Gestion de Aulas Heterogeneas,EDU0161,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1450 a 1720; ,,,,,Español
+25066,Educación,PR - Pregrado,Educacion y Sociedad,EDU0165,2,10,,San Joaquín,PR - Presencial,Sí,CLAS = W:1100 a 1330; ,,,,,Español
+30220,Educación,PR - Pregrado,Desventaja Socioeducativa Cree,EDU023R,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = V:1100 a 1330; ,,,,,Español
+24679,Educación,PR - Pregrado,Diversidad e Inclusion en Educ,EDU0317,5,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1100 a 1210; J:1100 a 1210; ,,,,,Español
+31604,Educación,PR - Pregrado,Ciencia Medioambiente Futuro,EDU124C,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1450 a 1720; ,,,,,Español
+30296,Educación,PR - Pregrado,Cerrando Brechas Educativas,EDU222B,1,10,AS - Aprendizaje Servicio,San Joaquín,PR - Presencial,Sí,CLAS = L:1450 a 1720; ,,,,,Español
+31284,Educación,PR - Pregrado,Cuerpo y Ecología. Aportes hac,EDU324A,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = V:1100 a 1330; ,,,,,Español
+24633,Educación,PR - Pregrado,Language and Culture II (CPC),EIN1003,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1100 a 1330; J:1100 a 1330; ,,,,,Inglés
+28420,Educación,PR - Pregrado,Literat f Teen Readers (CPC),EIN1009,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = W:1610 a 1840; ,,,,,Inglés
+18631,Escuela Ciencias de la Salud,PR - Pregrado,,FON501,1,17,,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Español
+18635,Escuela Ciencias de la Salud,PR - Pregrado,,FON506,1,17,,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Español
+29874,Escuela Ciencias de la Salud,PR - Pregrado,,NUT107A,1,10,,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Español
+31517,Escuela Ciencias de la Salud,PR - Pregrado,,NUT204A,1,10,,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Español
+31531,Escuela Ciencias de la Salud,PR - Pregrado,,NUT209A,1,10,,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Español
+31532,Escuela Ciencias de la Salud,PR - Pregrado,,NUT208A,1,10,,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Español
+31533,Escuela Ciencias de la Salud,PR - Pregrado,,NUT211A,1,5,,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Español
+31534,Escuela Ciencias de la Salud,PR - Pregrado,,NUT212A,1,5,,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Español
+32848,Escuela de Enfermería,PR - Pregrado,Sueño ¿Como Mant y Mejorar est,ENF1100,1,10,,San Joaquín,Revisar en buscador de cursos desde 15 de julio.,No,CLAS = M:1450 a 1720; ,,,,,Español
+32847,Escuela de Enfermería,PR - Pregrado,Salud Intercultural,ENF1126,1,10,,San Joaquín,Revisar en buscador de cursos desde 15 de julio.,No,CLAS = M:1100 a 1330; ,,,,,Español
+12624,Escuela de Enfermería,PR - Pregrado,Autocuidado de la Salud,ENF425,1,10,,San Joaquín,Revisar en buscador de cursos desde 15 de julio.,Sí,CLAS = J:1450 a 1720; ,,,,,Español
+28117,Escuela de Gobierno,PR - Pregrado,Comportamiento Organizacional,ADP001S,1,10,,San Joaquín,Revisar en buscador de cursos desde 15 de julio.,Sí,CLAS = M:1100 a 1210; J:1100 a 1210; ,AYU = W:1450 a 1600; ,,,,Español
+33236,Escuela de Gobierno,PR - Pregrado,Comportamiento Organizacional,ADP001S,2,10,,San Joaquín,Revisar en buscador de cursos desde 15 de julio.,Sí,CLAS = M:1100 a 1210; J:1100 a 1210; ,AYU = W:1450 a 1600; ,,,,Español
+30061,Escuela de Gobierno,PR - Pregrado,Economia del Sector Publico,ADP002E,1,10,,San Joaquín,Revisar en buscador de cursos desde 15 de julio.,Sí,CLAS = L:1220 a 1330; W:1220 a 1330; ,AYU = W:1450 a 1600; ,,,,Español
+31049,Escuela de Gobierno,PR - Pregrado,Migracion y DDHH,GOB2009,1,10,,San Joaquín,Revisar en buscador de cursos desde 15 de julio.,Sí,CLAS = M:1450 a 1720; ,AYU = V:0940 a 1050; ,,,,Español
+29853,Escuela de Gobierno,PR - Pregrado,"Org Soc Civil: Definic, Aporte",GOB2017,1,10,AS - Aprendizaje Servicio,San Joaquín,Revisar en buscador de cursos desde 15 de julio.,Sí,CLAS = W:1450 a 1720; ,AYU = V:1100 a 1210; ,,,,Español
+33122,Escuela de Gobierno,PR - Pregrado,Democracia y Desarrollo,GOB2018,1,10,,San Joaquín,Revisar en buscador de cursos desde 15 de julio.,Sí,CLAS = V:0940 a 1210; ,AYU = V:0820 a 0930; ,,,,Español
+31246,Escuela de Gobierno,PR - Pregrado,Principios de Politica Publica,GOB2019,1,10,,San Joaquín,Revisar en buscador de cursos desde 15 de julio.,Sí,CLAS = M:1100 a 1210; J:1100 a 1210; ,AYU = V:0940 a 1050; ,,,,Español
+32869,Escuela de Gobierno,PR - Pregrado,Segregacion Desigualdad Ciudad,GOB2020,1,10,,San Joaquín,Revisar en buscador de cursos desde 15 de julio.,Sí,CLAS = J:1450 a 1720; ,AYU = V:0820 a 0930; ,,,,Español
+31244,Escuela de Gobierno,PR - Pregrado,Derecho y Cambio Social,GOB2021,1,10,,San Joaquín,Revisar en buscador de cursos desde 15 de julio.,Sí,CLAS = M:0820 a 0930; J:0820 a 0930; ,AYU = V:1220 a 1330; ,,,,Español
+31248,Escuela de Gobierno,PR - Pregrado,Desigualdad y Cohesion Social,GOB2022,1,10,,San Joaquín,Revisar en buscador de cursos desde 15 de julio.,Sí,CLAS = M:1220 a 1330; J:1220 a 1330; ,AYU = V:1220 a 1330; ,,,,Español
+31252,Escuela de Gobierno,PR - Pregrado,Just Crimin Proc Penal Est Der,GOB2023,1,10,,San Joaquín,Revisar en buscador de cursos desde 15 de julio.,Sí,CLAS = L:1450 a 1720; ,AYU = V:0940 a 1050; ,,,,Español
+32868,Escuela de Gobierno,PR - Pregrado,Clones Estadisticos Pensamient,GOB2026,1,10,,San Joaquín,Revisar en buscador de cursos desde 15 de julio.,Sí,CLAS = M:0940 a 1050; J:0940 a 1050; ,AYU = V:1220 a 1330; ,,,,Español
+32866,Escuela de Gobierno,PR - Pregrado,Sociedad Epidemias y Amenazas,GOB2027,1,10,,San Joaquín,Revisar en buscador de cursos desde 15 de julio.,Sí,CLAS = M:0940 a 1050; J:0940 a 1050; ,AYU = V:0940 a 1050; ,,,,Español
+31252,Escuela de Gobierno,PR - Pregrado,Religiones Que son y como se e,GOB2023,1,10,,San Joaquín,Revisar en buscador de cursos desde 15 de julio.,No,CLAS = L:0940 a 1050; W:0940 a 1050; ,,,,,Español
+29123,Estética,PR - Pregrado,El Cuerpo en la Historia del A,ESO013,1,10,,San Joaquín,Revisar en buscador de cursos desde 15 de julio.,Sí,CLAS = W:1450 a 1720; ,,,,,Español
+31030,Estética,PR - Pregrado,El Cuerpo en la Historia del A,ESO013,2,10,,Oriente,Revisar en buscador de cursos desde 15 de julio.,Sí,CLAS = V:1100 a 1330; ,,,,,Español
+27801,Estética,PR - Pregrado,Estetica y Técnica,ESO015,1,10,,San Joaquín,Revisar en buscador de cursos desde 15 de julio.,Sí,CLAS = W:1450 a 1720; ,,,,,Español
+13681,Estética,PR - Pregrado,Taller de Gestion de Proyectos,ESO241C,1,10,,San Joaquín,Revisar en buscador de cursos desde 15 de julio.,Sí,CLAS = V:0940 a 1210; ,,,,,Español
+19428,Estética,PR - Pregrado,Economía e Industria Creativa,ESO246C,1,10,,San Joaquín,Revisar en buscador de cursos desde 15 de julio.,Sí,CLAS = L:0940 a 1050; W:0940 a 1050; ,,,,,Español
+13699,Estética,PR - Pregrado,Fundamentos de la Estetica,EST210A,1,10,,Oriente,Revisar en buscador de cursos desde 15 de julio.,Sí,CLAS = V:0940 a 1210; ,,,,,Español
+13698,Estética,PR - Pregrado,Fundamentos de la Estetica,EST210A,2,10,,Casa Central,Revisar en buscador de cursos desde 15 de julio.,Sí,CLAS = J:0940 a 1210; ,,,,,Español
+13703,Estética,PR - Pregrado,Estetica Americana,EST214A,1,10,,Oriente,Revisar en buscador de cursos desde 15 de julio.,Sí,CLAS = J:0940 a 1210; ,,,,,Español
+13708,Estética,PR - Pregrado,Arte y Modernidad,EST221B,1,10,,Oriente,PR - Presencial,Sí,CLAS = W:0940 a 1210; ,,,,,Español
+13710,Estética,PR - Pregrado,Arte Chileno y Americano II,EST223B,1,10,,Oriente,PR - Presencial,Sí,CLAS = V:1100 a 1330; ,,,,,Español
+25169,Estética,PR - Pregrado,Experiencia Estetica y Religio,EST231C,1,10,,Oriente,PR - Presencial,Sí,CLAS = W:1450 a 1720; ,,,,,Español
+13718,Estética,PR - Pregrado,Estetica del Cine,EST241D,1,10,,Oriente,PR - Presencial,Sí,CLAS = M:1450 a 1720; ,,,,,Español
+13722,Estética,PR - Pregrado,Estetica Literaria,EST242D,1,10,,Oriente,PR - Presencial,Sí,CLAS = L:0940 a 1210; ,,,,,Español
+33125,Estética,PR - Pregrado,Estetica de la Musica,EST245D,1,10,,Oriente,PR - Presencial,Sí,CLAS = M:1450 a 1720; ,,,,,Español
+13725,Estética,PR - Pregrado,Critica Cultural,EST253E,1,10,,Oriente,PR - Presencial,Sí,CLAS = M:0940 a 1210; ,,,,,Español
+11418,Estudios Urbanos,MG - Magister,Proyecto y Gestion Urbana,IEU3003,1,10,,Lo Contador,PR - Presencial,Sí,CLAS = J:1450 a 1720; ,,,,,Español
+33916,Estudios Urbanos,MG - Magister,Patrimonio y Ciudad,IEU3069,1,5,,Lo Contador,PR - Presencial,Sí,CLAS = J:1450 a 1720; ,,,,,Español
+21107,Estudios Urbanos,MG - Magister,Movilidades Urbanas,IEU3082,1,5,,Lo Contador,PR - Presencial,Sí,CLAS = W:1100 a 1330; ,,,,,Español
+14971,Estudios Urbanos,MG - Magister,Politicas Publicas y Gobernanz,IEU3086,1,10,,Lo Contador,PR - Presencial,Sí,CLAS = J:1100 a 1330; ,,,,,Español
+32709,Estudios Urbanos,MG - Magister,Ordenacion y Planificacion Ter,IEU3105,1,5,,Lo Contador,PR - Presencial,Sí,CLAS = J:0820 a 1050; ,,,,,Español
+26213,Estudios Urbanos,MG - Magister,Planif Integrad Zonas Costeras,IEU3110,1,5,,Lo Contador,OS - Online Sincrónico,Sí,CLAS = J:1850 a 2120; ,,,,,Español
+29219,Estudios Urbanos,MG - Magister,"Institucionalid, Gobern y Gest",IEU3203,1,10,,Lo Contador,PR - Presencial,Sí,CLAS = S:0940 a 1210; ,,,,,Español
+29220,Estudios Urbanos,MG - Magister,Coproduccion Desarrollo Urbano,IEU3204,1,10,,Lo Contador,PR - Presencial,Sí,CLAS = V:1100 a 1330; ,,,,,Español
+29222,Estudios Urbanos,MG - Magister,Estrategias Regeneracion Urban,IEU3208,1,5,,Lo Contador,OS - Online Sincrónico,Sí,CLAS = J:1850 a 2120; ,,,,,Español
+30932,Estudios Urbanos,MG - Magister,Gestion y Evaluacion Proyectos,IEU3210,1,5,,Lo Contador,PR - Presencial,Sí,CLAS = V:0820 a 1050; ,,,,,Español
+31053,Estudios Urbanos,MG - Magister,Evaluacion Impacto Ambiental,IEU3214,1,5,,Lo Contador,OS - Online Sincrónico,Sí,CLAS = J:1850 a 2120; ,,,,,Español
+31054,Estudios Urbanos,MG - Magister,Gestion y Monitoreo Ambiental,IEU3216,1,5,,Lo Contador,OS - Online Sincrónico,Sí,CLAS = J:1850 a 2120; ,,,,,Español
+30934,Estudios Urbanos,PR - Pregrado,Diseño Estrateg Info Ambiental,AEU2003,1,10,,San Joaquín,PR - Presencial,No,CLAS = W:1450 a 1720; ,,,,,Español
+33931,Estudios Urbanos,PR - Pregrado,Diseño Estrateg Info Ambiental,AEU2003,2,10,,San Joaquín,PR - Presencial,No,CLAS = L:1450 a 1720; ,,,,,Español
+11363,Estudios Urbanos,PR - Pregrado,Sociologia de las Grandes Ciud,IEU2002,1,10,,San Joaquín,OS - Online Sincrónico,No,CLAS = L:0940 a 1210; ,,,,,Español
+11350,Estudios Urbanos,PR - Pregrado,Sociologia de las Grandes Ciud,IEU2002,2,10,,San Joaquín,PR - Presencial,No,CLAS = M:1100 a 1330; ,,,,,Español
+21124,Estudios Urbanos,PR - Pregrado,Sociologia de las Grandes Ciud,IEU2002,3,10,,Lo Contador,PR - Presencial,No,CLAS = J:1100 a 1330; ,,,,,Español
+32702,Estudios Urbanos,PR - Pregrado,Sociologia de las Grandes Ciud,IEU2002,4,10,,San Joaquín,PR - Presencial,No,CLAS = V:1450 a 1720; ,,,,,Español
+33933,Estudios Urbanos,PR - Pregrado,Agua y Ciudad,IEU2041,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = J:1450 a 1720; ,,,,,Español
+33934,Estudios Urbanos,PR - Pregrado,Desarrollo Inmobiliario Susten,IEU2044,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1450 a 1720; ,,,,,Español
+26218,Estudios Urbanos,PR - Pregrado,"Desarr Local Sust: Concep, Prá",IEU2047,1,10,,San Joaquín,PR - Presencial,No,CLAS = V:1450 a 1720; ,,,,,Español
+30931,Estudios Urbanos,PR - Pregrado,"Desarr Local Sust: Concep, Prá",IEU2047,2,10,,Oriente,PR - Presencial,No,CLAS = M:1100 a 1330; ,,,,,Español
+32735,Estudios Urbanos,PR - Pregrado,"Desarr Local Sust: Concep, Prá",IEU2047,3,10,,San Joaquín,PR - Presencial,No,CLAS = J:1100 a 1330; ,,,,,Español
+26221,Estudios Urbanos,PR - Pregrado,Explor Urbanas: Territ Sustent,IEU2048,1,10,,San Joaquín,PR - Presencial,No,CLAS = M:1450 a 1720; ,,,,,Español
+29304,Estudios Urbanos,PR - Pregrado,Explor Urbanas: Territ Sustent,IEU2048,2,10,,San Joaquín,PR - Presencial,No,CLAS = W:1100 a 1330; ,,,,,Español
+34301,Estudios Urbanos,PR - Pregrado,Vivienda y Barrios,IEU2049,1,10,,Lo Contador,PR - Presencial,No,CLAS = W:1610 a 1840; ,,,,,Español
+30936,Estudios Urbanos,PR - Pregrado,Planificacion Urbana Participa,IEU2050,1,10,,San Joaquín,PR - Presencial,No,CLAS = V:1450 a 1720; ,,,,,Español
+29306,Estudios Urbanos,PR - Pregrado,Genero Ciudad Aprox Urbanis Fe,IEU2051,1,10,,San Joaquín,PR - Presencial,No,CLAS = M:1450 a 1720; ,,,,,Español
+32698,Estudios Urbanos,PR - Pregrado,Genero Ciudad Aprox Urbanis Fe,IEU2051,2,10,,San Joaquín,PR - Presencial,No,CLAS = L:1450 a 1720; ,,,,,Español
+29217,Estudios Urbanos,PR - Pregrado,Exploraciones Urbanas,IEU2052,1,10,,San Joaquín,PR - Presencial,No,CLAS = M:1100 a 1330; ,,,,,Español
+29342,Estudios Urbanos,PR - Pregrado,Instituc y Legislac Urb-Rural,IEU2060,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1100 a 1330; ,,,,,Español
+29309,Estudios Urbanos,PR - Pregrado,Gobernanza y Part Ciudadana,IEU2061,1,10,AS - Aprendizaje Servicio,San Joaquín,PR - Presencial,Sí,CLAS = V:1100 a 1330; ,,,,,Español
+29307,Estudios Urbanos,PR - Pregrado,Lab Ev Ambiental Urbana,IEU2066,1,10,,Lo Contador,PR - Presencial,Sí,CLAS = M:0940 a 1210; ,,,,,Español
+30935,Estudios Urbanos,PR - Pregrado,"Energia, Infraestruc y Movimie",IEU2067,1,10,,San Joaquín,PR - Presencial,No,CLAS = V:1100 a 1330; ,,,,,Español
+32732,Estudios Urbanos,PR - Pregrado,Gobernanza Urbana Conflic Ciud,IEU2069,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = J:1450 a 1720; ,,,,,Español
+32733,Estudios Urbanos,PR - Pregrado,Exploracion Urbana Formas Ciud,IEU2070,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = W:1450 a 1720; ,,,,,Español
+32780,Estudios Urbanos,PR - Pregrado,Explorac Urban Cultur Patrimon,IEU2072,1,10,,Casa Central,PR - Presencial,Sí,CLAS = J:1100 a 1330; ,,,,,Español
+32731,Estudios Urbanos,PR - Pregrado,Exploracion Urbana Stgo Cinema,IEU2073,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = W:1100 a 1330; ,,,,,Español
+32700,Estudios Urbanos,PR - Pregrado,Futuros Urbanos 2100 Planific,IEU2080,1,10,,San Joaquín,PR - Presencial,No,CLAS = J:1100 a 1330; ,,,,,Español
+32701,Estudios Urbanos,PR - Pregrado,Futuros Urbanos 2100 Planific,IEU2080,2,10,,San Joaquín,PR - Presencial,No,CLAS = W:1100 a 1330; ,,,,,Español
+22626,Filosofía,PR - Pregrado,Platon,FIL001,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = V:0940 a 1210; ,,,,,Español
+24505,Filosofía,PR - Pregrado,Santo Tomas,FIL003,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:0940 a 1050; J:0940 a 1050; ,,,,,Español
+10656,Filosofía,PR - Pregrado,Hegel,FIL006,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:0940 a 1050; J:0940 a 1050; ,,,,,Español
+26554,Filosofía,PR - Pregrado,Filosofia del Lenguaje,FIL012,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1100 a 1210; J:1100 a 1210; ,,,,,Español
+24506,Filosofía,PR - Pregrado,Etica,FIL016,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1100 a 1330; ,,,,,Español
+28586,Filosofía,PR - Pregrado,Filosofia de las Ciencias,FIL017,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1220 a 1330; J:1220 a 1330; ,,,,,Español
+22628,Filosofía,PR - Pregrado,Historia de la Filosof Medieva,FIL022,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1100 a 1210; J:1100 a 1210; ,,,,,Español
+22629,Filosofía,PR - Pregrado,Historia de la Filosof Contemp,FIL024,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1450 a 1600; W:1450 a 1600; ,,,,,Español
+26562,Filosofía,PR - Pregrado,Filosofia del Arte,FIL112,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1450 a 1600; W:1450 a 1600; ,,,,,Español
+10715,Filosofía,PR - Pregrado,Antropologia Filosofica,FIL113T,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:0820 a 0930; J:0820 a 0930; ,,,,,Español
+10723,Filosofía,PR - Pregrado,Etica,FIL114T,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:0940 a 1210; ,,,,,Español
+15409,Filosofía,PR - Pregrado,Metafisica,FIL116T,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:0940 a 1050; J:0940 a 1050; ,,,,,Español
+10731,Filosofía,PR - Pregrado,Teologia Natural,FIL117T,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1100 a 1210; J:1100 a 1210; ,,,,,Español
+23175,Filosofía,PR - Pregrado,Historia de la Filosofia Medie,FIL123T,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = J:1100 a 1330; ,,,,,Español
+26573,Filosofía,PR - Pregrado,Seminar de Filosof Optativ B,FIL168,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1100 a 1210; V:1100 a 1210; ,,,,,Español
+26575,Filosofía,PR - Pregrado,Seminar de Filosof Optativ B,FIL168,2,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1610 a 1720; J:1610 a 1720; ,,,,,Español
+30671,Filosofía,PR - Pregrado,Seminar de Filosof Optativ B,FIL168,3,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:0820 a 0930; W:0820 a 0930; ,,,,,Español
+28595,Filosofía,PR - Pregrado,Seminar de Filosof Optativ D,FIL174,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1220 a 1330; W:1220 a 1330; ,,,,,Español
+32415,Filosofía,PR - Pregrado,Seminar de Filosof Optativ D,FIL174,2,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:0940 a 1050; W:0940 a 1050; ,,,,,Español
+32423,Filosofía,PR - Pregrado,Seminar de Filosof Optativ D,FIL174,3,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1450 a 1600; J:1450 a 1600; ,,,,,Español
+32427,Filosofía,PR - Pregrado,Seminar de Filosof Optativ D,FIL174,4,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1100 a 1210; J:1100 a 1210; ,,,,,Español
+28608,Filosofía,PR - Pregrado,Filosofia: ¿Para qué?,FIL2001,11,10,,Lo Contador,PR - Presencial,No,CLAS = W:1100 a 1330; ,,,,,Español
+28613,Filosofía,PR - Pregrado,Filosofia: ¿Para qué?,FIL2001,15,10,,San Joaquín,PR - Presencial,No,CLAS = M:0940 a 1050; J:0940 a 1050; ,,,,,Español
+28618,Filosofía,PR - Pregrado,Filosofia: ¿Para qué?,FIL2001,18,10,,San Joaquín,PR - Presencial,No,CLAS = M:1220 a 1330; J:1220 a 1330; ,,,,,Español
+28628,Filosofía,PR - Pregrado,Filosofia: ¿Para qué?,FIL2001,25,10,,San Joaquín,PR - Presencial,No,CLAS = M:0940 a 1050; J:0940 a 1050; ,,,,,Español
+30155,Filosofía,PR - Pregrado,Etica: ¿Como deberiamos vivir?,FIL2002,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:0940 a 1050; J:0940 a 1050; ,,,,,Español
+30156,Filosofía,PR - Pregrado,"Verdad, Bien y Belleza",FIL2003,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1100 a 1210; J:1100 a 1210; ,,,,,Español
+30158,Filosofía,PR - Pregrado,De Homero a Facebook Filosofia,FIL2005,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = W:1100 a 1210; V:1100 a 1210; ,,,,,Español
+30433,Filosofía,PR - Pregrado,Introduccion a la Argumentacio,FIL2006,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1100 a 1210; W:1100 a 1210; ,,,,,Español
+30434,Filosofía,PR - Pregrado,Introduccion a la Argumentacio,FIL2006,2,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1220 a 1330; W:1220 a 1330; ,,,,,Español
+32430,Filosofía,PR - Pregrado,Espiritualidad en Sociedad Con,FIL2007,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:0940 a 1050; W:0940 a 1050; ,,,,,Español
+11048,Filosofía,PR - Pregrado,Historia de la Filosofia Conte,FIL214T,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1220 a 1330; J:1220 a 1330; ,,,,,Español
+30154,Filosofía,PR - Pregrado,Pensamiento Oriental,FIL9930,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1450 a 1720; ,,,,,Español
+32415,Filosofía,PR - Pregrado,Doctrina Social de la Iglesia,FIL174,2,10,,San Joaquín,PR - Presencial,No,CLAS = L:1220 a 1330; W:1220 a 1330; ,,,,,Español
+28134,Física,PR - Pregrado,Fisica en la Musica,FIS0104,1,10,,Oriente,PR - Presencial,Sí,CLAS = M:1220 a 1330; J:1220 a 1330; ,AYU = V:1220 a 1330; ,,,,Español
+15991,Física,PR - Pregrado,Fisica Moderna,FIZ0311,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1100 a 1210; J:1100 a 1210; ,AYU = J:1450 a 1600; ,,,,Español
+21639,Física,PR - Pregrado,Ondas y Optica,FIZ0315,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:0940 a 1050; W:0940 a 1050; ,AYU = V:1100 a 1210; ,,,,Español
+16000,Física,PR - Pregrado,Teoria Electromagnetica,FIZ0321,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1100 a 1210; W:1100 a 1210; ,AYU = J:1450 a 1600; ,,,,Español
+16001,Física,PR - Pregrado,Fisica Cuantica I,FIZ0322,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:0820 a 0930; W:0820 a 0930; ,AYU = V:0820 a 0930; ,,,,Español
+24742,Física,PR - Pregrado,Fisica Experimental III,FIZ0613,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1450 a 1600; ,,LAB = V:0940 a 1210; ,,,Español
+34776,Física,PR - Pregrado,Introduccion a la Fisica Medic,FIZ1310,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1450 a 1600; W:1450 a 1600; ,,,,,Español
+31790,Física,PR - Pregrado,Fisica Computacional,FIZ1431,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1220 a 1330; W:1220 a 1330; ,,,,,Español
+31791,Física,PR - Pregrado,Fisica Nuclear,FIZ2800,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:0940 a 1050; W:0940 a 1050; ,,,,,Español
+24747,Física,PR - Pregrado,Fisica del Solido,FIZ3600,1,12,,San Joaquín,PR - Presencial,Sí,CLAS = M:0940 a 1050; J:0940 a 1050; ,,,,,Español
+14506,Geografía,PR - Pregrado,Geografia Humana General,GEO103,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1220 a 1330; W:1220 a 1330; ,,,,,Español
+14508,Geografía,PR - Pregrado,Geografia Humana General,GEO103,2,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1220 a 1330; W:1220 a 1330; ,,,,,Español
+14511,Geografía,PR - Pregrado,Geografia Humana General,GEO103,4,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1220 a 1330; J:1220 a 1330; ,,,,,Español
+17045,Geografía,PR - Pregrado,Geografia Humana General,GEO103,5,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1220 a 1330; J:1220 a 1330; ,,,,,Español
+32349,Geografía,PR - Pregrado,Geografia Humana General,GEO103,6,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1220 a 1330; W:1220 a 1330; ,,,,,Español
+14518,Geografía,PR - Pregrado,Geografia de Chile: Espacio y,GEO111,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1450 a 1600; W:1450 a 1600; V:1450 a 1600; ,,,,,Español
+34404,Geografía,PR - Pregrado,Geografias Culturales,GEO3121,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1100 a 1210; J:1100 a 1210; ,,,,,Español
+34405,Geografía,PR - Pregrado,Geografias Culturales,GEO3121,2,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1220 a 1330; J:1220 a 1330; ,,,,,Español
+34407,Geografía,PR - Pregrado,Geomorfologia I: Tectonismo,GEO3123,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1220 a 1330; W:1220 a 1330; ,,,,,Español
+34409,Geografía,PR - Pregrado,Geografia Rural,GEO3223,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1450 a 1600; J:1450 a 1600; ,,,,,Español
+34420,Geografía,PR - Pregrado,Geografias Desarrollo Sustent,GEO3323,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1100 a 1210; J:1100 a 1210; ,,,,,Español
+14559,Geografía,PR - Pregrado,Planificacion Territorial,GEO504,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1100 a 1210; W:1100 a 1210; ,,,,,Español
+24741,Geografía,PR - Pregrado,Geog y Género: Mirad Latinoame,GEO618,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:0940 a 1050; W:0940 a 1050; ,,,,,Español
+34469,Geografía,PR - Pregrado,Asia y America Latina,GEO620,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:0940 a 1050; W:0940 a 1050; ,,,,,Español
+14364,Historia,PR - Pregrado,Historia Antigua,IHI0201,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1220 a 1330; W:1220 a 1330; ,,,,,Español
+17198,Historia,PR - Pregrado,Historia Contemporanea S. XIX,IHI0204,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1220 a 1330; J:1220 a 1330; ,,,,,Español
+18500,Historia,PR - Pregrado,Historia Mundial Contemporanea,IHI0205,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1220 a 1330; W:1220 a 1330; ,,,,,Español
+18501,Historia,PR - Pregrado,Historia Mundial Contemporanea,IHI0205,2,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:0940 a 1050; W:0940 a 1050; ,,,,,Español
+18502,Historia,PR - Pregrado,Historia Mundial Contemporanea,IHI0205,3,10,,Casa Central,PR - Presencial,Sí,CLAS = L:0940 a 1050; W:0940 a 1050; ,,,,,Español
+32911,Historia,PR - Pregrado,Chile y America Indigena,IHI0211,1,10,,San Joaquín,PR - Presencial,No,CLAS = M:1220 a 1330; J:1220 a 1330; ,,,,,Español
+14362,Historia,PR - Pregrado,Historia de Chile Colonial,IHI0212,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1450 a 1600; J:1450 a 1600; ,,,,,Español
+31616,Historia,PR - Pregrado,Historia de Chile Colonial,IHI0212,2,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1610 a 1720; J:1610 a 1720; ,,,,,Español
+17196,Historia,PR - Pregrado,Historia de Chile Contemporane,IHI0214,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1610 a 1720; W:1610 a 1720; ,,,,,Español
+17197,Historia,PR - Pregrado,Historia de Chile Contemporane,IHI0214,2,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:0940 a 1050; W:0940 a 1050; ,,,,,Español
+14367,Historia,PR - Pregrado,Historia de America Colonial,IHI0222,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1100 a 1210; W:1100 a 1210; ,,,,,Español
+17200,Historia,PR - Pregrado,Historia de America S. XIX,IHI0223,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1100 a 1210; J:1100 a 1210; ,,,,,Español
+18507,Historia,PR - Pregrado,Historia de America Contempora,IHI0224,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1100 a 1210; W:1100 a 1210; J:1100 a 1210; ,,,,,Español
+18508,Historia,PR - Pregrado,Historia de America Contempora,IHI0224,2,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1450 a 1600; J:1450 a 1600; ,,,,,Español
+31619,Historia,PR - Pregrado,Contemp Latin Amer Hist,IHI0225,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:0940 a 1050; J:0940 a 1050; ,,,,,Inglés
+29962,Historia,PR - Pregrado,Humanitar y DDHH,IHI0503,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1220 a 1330; J:1220 a 1330; ,,,,,Español
+32887,Historia,PR - Pregrado,Historia de Africa,IHI0514,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1100 a 1210; W:1100 a 1210; ,,,,,Español
+32941,Historia,PR - Pregrado,Músicas Latinoamericanas,IHI0519,1,10,,San Joaquín,PR - Presencial,No,CLAS = L:1610 a 1720; W:1610 a 1720; ,,,,,Español
+28131,Historia,PR - Pregrado,Vestime y Construcci de Género,IHI0520,1,10,,San Joaquín,PR - Presencial,No,CLAS = M:0940 a 1050; J:0940 a 1050; ,,,,,Español
+26611,Historia,PR - Pregrado,Pueblos Indig en Chile: Fronte,IHI0524,1,10,,San Joaquín,PR - Presencial,No,CLAS = M:1220 a 1330; J:1220 a 1330; ,,,,,Español
+28654,Historia,PR - Pregrado,China: Historia y Cultura,IHI0529,1,10,,San Joaquín,PR - Presencial,No,CLAS = M:1100 a 1210; J:1100 a 1210; ,,,,,Español
+28150,Historia,PR - Pregrado,Entendiendo a Rusia,IHI0534,1,10,,San Joaquín,PR - Presencial,No,CLAS = L:1220 a 1330; W:1220 a 1330; ,,,,,Español
+31676,Historia,PR - Pregrado,Revo y Dict Amer Lat XIX y XX,IHI0537,1,10,,San Joaquín,PR - Presencial,No,CLAS = L:1100 a 1210; W:1100 a 1210; ,,,,,Español
+32028,Historia,PR - Pregrado,Estados Unidos: Historia y Cul,IHI2302,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1610 a 1720; W:1610 a 1720; ,,,,,Español
+18070,Historia,PR - Pregrado,Museos y Patrimonio,IHI2313,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = J:1450 a 1720; ,,,,,Español
+34283,Historia,PR - Pregrado,Historia de Genero en Chile,IHI2323,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:0940 a 1050; W:0940 a 1050; ,,,,,Español
+32900,Historia,PR - Pregrado,Ambient Problem Historic Chile,IHI2327,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1450 a 1600; J:1450 a 1600; ,,,,,Español
+32897,Historia,PR - Pregrado,Introduccion a la IA,IHI2333,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:0940 a 1050; J:0940 a 1050; ,,,,,Español
+32896,Historia,PR - Pregrado,"Genero, Politica y Sociedad en",IHI2334,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1100 a 1210; J:1100 a 1210; ,,,,,Español
+34749,Historia,PR - Pregrado,Historia Cultura Popular Asia,IHI2340,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:0940 a 1050; W:0940 a 1050; ,,,,,Español
+33183,Instituto de Éticas Aplicadas,PR - Pregrado,,ETI1004,1,10,,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Español
+29143,Letras,MG - Magister,Fonet y Fonolog Grales,LET3103,1,10,,San Joaquín,Revisar en buscador de cursos desde 15 de julio.,Sí,CLAS = W:1730 a 2000; ,,,,,Español
+23627,Letras,MG - Magister,Semantica General,LET3104,1,10,,San Joaquín,Revisar en buscador de cursos desde 15 de julio.,Sí,CLAS = M:1450 a 1720; ,,,,,Español
+12288,Letras,PR - Pregrado,Lengua y Cultura Quechua I,LET001E,1,10,,San Joaquín,Revisar en buscador de cursos desde 15 de julio.,Sí,CLAS = L:0940 a 1050; W:0940 a 1050; ,,,,,Español
+27592,Letras,PR - Pregrado,Teoria Literaria I,LET0102,1,10,,San Joaquín,Revisar en buscador de cursos desde 15 de julio.,Sí,CLAS = M:1100 a 1210; J:1100 a 1210; ,,,,,Español
+27593,Letras,PR - Pregrado,Teoria Literaria I,LET0102,2,10,,San Joaquín,Revisar en buscador de cursos desde 15 de julio.,Sí,CLAS = M:1100 a 1210; J:1100 a 1210; ,,,,,Español
+30257,Letras,PR - Pregrado,Narrativ Chilena e Hispanoam I,LET0104,1,10,,San Joaquín,Revisar en buscador de cursos desde 15 de julio.,Sí,CLAS = M:1100 a 1210; J:1100 a 1210; ,,,,,Español
+30258,Letras,PR - Pregrado,Narrativ Chilena e Hispanoam I,LET0104,2,10,,San Joaquín,Revisar en buscador de cursos desde 15 de julio.,Sí,CLAS = M:1100 a 1210; J:1100 a 1210; ,,,,,Español
+31918,Letras,PR - Pregrado,Pensamie Ensayo Chile Hispanoa,LET0108,1,10,,San Joaquín,Revisar en buscador de cursos desde 15 de julio.,Sí,CLAS = L:1450 a 1600; W:1450 a 1600; ,,,,,Español
+31917,Letras,PR - Pregrado,Teatro Chileno e Hispanoameric,LET0110,1,10,,San Joaquín,Revisar en buscador de cursos desde 15 de julio.,Sí,CLAS = M:1220 a 1330; J:1220 a 1330; ,,,,,Español
+27594,Letras,PR - Pregrado,Literat Moderna y Contemporáne,LET0112,1,10,,San Joaquín,Revisar en buscador de cursos desde 15 de julio.,Sí,CLAS = L:0940 a 1050; W:0940 a 1050; ,,,TAL = V:0940 a 1050; ,,Español
+27597,Letras,PR - Pregrado,Literat Moderna y Contemporáne,LET0112,2,10,,San Joaquín,Revisar en buscador de cursos desde 15 de julio.,Sí,CLAS = L:0940 a 1050; W:0940 a 1050; ,,,TAL = V:0940 a 1050; ,,Español
+30263,Letras,PR - Pregrado,Poesia Chilena e Hispanoamer I,LET0114,1,10,,San Joaquín,Revisar en buscador de cursos desde 15 de julio.,Sí,CLAS = M:1450 a 1600; J:1450 a 1600; ,,,,,Español
+30264,Letras,PR - Pregrado,Poesia Chilena e Hispanoamer I,LET0114,2,10,,San Joaquín,Revisar en buscador de cursos desde 15 de julio.,Sí,CLAS = M:1450 a 1600; J:1450 a 1600; ,,,,,Español
+31919,Letras,PR - Pregrado,Literatura Española I,LET0116,1,10,,San Joaquín,Revisar en buscador de cursos desde 15 de julio.,Sí,CLAS = L:0940 a 1050; W:0940 a 1050; ,,,,,Español
+27598,Letras,PR - Pregrado,Mod Lingüísticos Contemporáneo,LET0122,1,10,,San Joaquín,Revisar en buscador de cursos desde 15 de julio.,Sí,CLAS = M:0940 a 1050; J:0940 a 1050; ,,,TAL = V:1220 a 1330; ,,Español
+27600,Letras,PR - Pregrado,Mod Lingüísticos Contemporáneo,LET0122,2,10,,San Joaquín,Revisar en buscador de cursos desde 15 de julio.,Sí,CLAS = M:0940 a 1050; J:0940 a 1050; ,,,TAL = V:1220 a 1330; ,,Español
+30261,Letras,PR - Pregrado,Semantica Española,LET0124,1,10,,San Joaquín,Revisar en buscador de cursos desde 15 de julio.,Sí,CLAS = M:1220 a 1330; J:1220 a 1330; ,,,,,Español
+30262,Letras,PR - Pregrado,Semantica Española,LET0124,2,10,,San Joaquín,Revisar en buscador de cursos desde 15 de julio.,Sí,CLAS = M:1220 a 1330; J:1220 a 1330; ,,,,,Español
+31881,Letras,PR - Pregrado,Estudios del Discurso,LET0126,1,10,,San Joaquín,Revisar en buscador de cursos desde 15 de julio.,Sí,CLAS = M:0940 a 1050; J:0940 a 1050; ,,,,,Español
+31882,Letras,PR - Pregrado,Estudios del Discurso,LET0126,2,10,,San Joaquín,Revisar en buscador de cursos desde 15 de julio.,Sí,CLAS = M:0940 a 1050; J:0940 a 1050; ,,,,,Español
+31920,Letras,PR - Pregrado,Pragmatica,LET0128,1,10,,San Joaquín,Revisar en buscador de cursos desde 15 de julio.,Sí,CLAS = M:1100 a 1210; J:1100 a 1210; ,,,,,Español
+31921,Letras,PR - Pregrado,Psicolingüistica,LET0142,1,10,,San Joaquín,Revisar en buscador de cursos desde 15 de julio.,Sí,CLAS = L:1450 a 1600; W:1450 a 1600; ,,,,,Español
+31922,Letras,PR - Pregrado,Sociolingüistica,LET0144,1,10,,San Joaquín,Revisar en buscador de cursos desde 15 de julio.,Sí,CLAS = L:1610 a 1720; W:1610 a 1720; ,,,,,Español
+33308,Letras,PR - Pregrado,Creative Writing,LET016I,1,10,,San Joaquín,Revisar en buscador de cursos desde 15 de julio.,Sí,CLAS = L:0940 a 1050; W:0940 a 1050; ,,,,,Inglés
+34979,Letras,PR - Pregrado,Cortesia en el Espanol de Chil,LET024E,1,10,,San Joaquín,Revisar en buscador de cursos desde 15 de julio.,Sí,CLAS = M:0820 a 0930; J:0820 a 0930; ,,,,,Español
+30422,Letras,PR - Pregrado,Literary Theory II,LET0314,1,10,,San Joaquín,Revisar en buscador de cursos desde 15 de julio.,Sí,CLAS = M:1220 a 1330; J:1220 a 1330; ,,,,,Inglés
+31794,Letras,PR - Pregrado,Narrative: From Post-War to Pr,LET0316,1,10,,San Joaquín,Revisar en buscador de cursos desde 15 de julio.,Sí,CLAS = L:0940 a 1050; W:0940 a 1050; ,,,,,Inglés
+30423,Letras,PR - Pregrado,Short Story,LET0324,1,10,,San Joaquín,Revisar en buscador de cursos desde 15 de julio.,Sí,CLAS = M:1100 a 1210; J:1100 a 1210; ,,,,,Inglés
+31795,Letras,PR - Pregrado,Poetry,LET0326,1,10,,San Joaquín,Revisar en buscador de cursos desde 15 de julio.,Sí,CLAS = M:1220 a 1330; J:1220 a 1330; ,,,,,Inglés
+30346,Letras,PR - Pregrado,Literary Linguistics,LET0334,1,10,,San Joaquín,Revisar en buscador de cursos desde 15 de julio.,Sí,CLAS = M:0940 a 1050; J:0940 a 1050; ,,,,,Inglés
+31793,Letras,PR - Pregrado,Classical and Medieval Literat,LET0337,1,10,,San Joaquín,Revisar en buscador de cursos desde 15 de julio.,Sí,CLAS = M:1100 a 1210; J:1100 a 1210; ,,,,,Inglés
+31796,Letras,PR - Pregrado,Sociolinguistics: Lang & Socie,LET0356,1,10,,San Joaquín,Revisar en buscador de cursos desde 15 de julio.,Sí,CLAS = L:1450 a 1600; W:1450 a 1600; ,,,,,Inglés
+33310,Letras,PR - Pregrado,"Memory, Trauma and Literary Re",LET038I,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:0940 a 1050; J:0940 a 1050; ,,,,,Inglés
+34980,Letras,PR - Pregrado,Lengua y Cultura Mapuche,LET075E,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1730 a 1840; W:1730 a 1840; ,,,,,Español
+33498,Letras,PR - Pregrado,Iniciacion a la Traduccion de,LET090E,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1100 a 1210; W:1100 a 1210; ,,,,,Español
+34990,Letras,PR - Pregrado,Teaching Early Written Genres,LET091I,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1100 a 1210; J:1100 a 1210; ,,,,,Inglés
+34986,Letras,PR - Pregrado,"Stories of Loss, Identity, and",LET093I,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = V:1450 a 1720; ,,,,,Inglés
+34987,Letras,PR - Pregrado,Film and Culture for the Class,LET094I,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = J:1450 a 1720; ,,,,,Inglés
+34988,Letras,PR - Pregrado,World Englishes,LET095I,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:0940 a 1050; W:0940 a 1050; ,,,,,Inglés
+34989,Letras,PR - Pregrado,Introduction Quantitative Ana,LET098I,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = V:0940 a 1210; ,,,,,Inglés
+33264,Letras,PR - Pregrado,Introducción a la Industria Ed,LET100E,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = W:1100 a 1210; V:1100 a 1210; ,,,,,Español
+12609,Letras,PR - Pregrado,Literatura Universal II,LET1012,1,10,,Casa Central,PR - Presencial,Sí,CLAS = L:1100 a 1210; W:1100 a 1210; ,,,,,Español
+34978,Letras,PR - Pregrado,Intro Linguistica Digital,LET140E,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = V:1100 a 1330; ,,,,,Español
+34974,Letras,PR - Pregrado,Lenguas Indigenas Suda,LET143E,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = V:1450 a 1720; ,,,,,Español
+33269,Letras,PR - Pregrado,El misterioso caso Ficc Pol,LET202G,1,10,,San Joaquín,PR - Presencial,No,CLAS = M:0940 a 1050; J:0940 a 1050; ,,,,,Español
+34984,Letras,PR - Pregrado,Imagined Machines: Artificial,LET215I,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1450 a 1600; W:1450 a 1600; ,,,,,Inglés
+34985,Letras,PR - Pregrado,Music and Poetry in the Postco,LET216I,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1450 a 1600; W:1450 a 1600; ,,,,,Inglés
+34947,Letras,PR - Pregrado,Analisis de Textos Narrativos,LET224E,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:0940 a 1050; J:0940 a 1050; ,,,,,Español
+34941,Letras,PR - Pregrado,Repre de lo Femenin  Edad Medi,LET311E,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1610 a 1720; J:1610 a 1720; ,,,,,Español
+34942,Letras,PR - Pregrado,La poesia de Jorge Luis Borges,LET317E,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1730 a 1840; J:1730 a 1840; ,,,,,Español
+34940,Letras,PR - Pregrado,Andares Queer en Latinoamerica,LET323E,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1610 a 1720; W:1610 a 1720; ,,,,,Español
+31924,Letras,PR - Pregrado,Deconstruir Maternidades Psico,LET325E,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:0820 a 0930; W:0820 a 0930; ,,,,,Español
+34946,Letras,PR - Pregrado,Archivos y Literatura,LET336E,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1450 a 1600; J:1450 a 1600; ,,,,,Español
+34945,Letras,PR - Pregrado,Imagenes Roma de Augusto,LET337E,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1100 a 1210; W:1100 a 1210; ,,,,,Español
+34944,Letras,PR - Pregrado,Literatura en Clave Transatlan,LET338E,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1100 a 1330; ,,,,,Español
+34943,Letras,PR - Pregrado,Migraciones en Chile y Lat,LET339E,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1100 a 1210; J:1100 a 1210; ,,,,,Español
+35141,Letras,PR - Pregrado,,LET092I,1,10,,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Inglés
+35148,Letras,PR - Pregrado,,LET002G,1,10,,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Español
+35153,Letras,PR - Pregrado,,LET018I,1,10,,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Inglés
+15993,Música,PR - Pregrado,Apreciacion de Musica en vivo,MUC1000,1,10,,San Joaquín,Revisar en buscador de cursos desde 15 de julio.,No,CLAS = J:1450 a 1600; ,,,,TER = M:1850 a 2000; ,Español
+24048,Música,PR - Pregrado,Apreciacion de Musica en vivo,MUC1000,2,10,,San Joaquín,Revisar en buscador de cursos desde 15 de julio.,No,CLAS = W:1100 a 1210; ,,,,TER = M:1850 a 2000; ,Español
+13227,Música,PR - Pregrado,Coro,MUC701,1,10,,Casa Central,Revisar en buscador de cursos desde 15 de julio.,No,,,,TAL = M:1450 a 1720; ,,Español
+11925,Música,PR - Pregrado,Coro,MUC701,2,10,,San Joaquín,Revisar en buscador de cursos desde 15 de julio.,No,,,,TAL = J:0820 a 1050; ,,Español
+11917,Música,PR - Pregrado,Coro,MUC701,3,10,,San Joaquín,Revisar en buscador de cursos desde 15 de julio.,No,,,,TAL = J:1610 a 1840; ,,Español
+11908,Música,PR - Pregrado,Coro,MUC701,4,10,,Casa Central,Revisar en buscador de cursos desde 15 de julio.,No,,,,TAL = V:1450 a 1720; ,,Español
+13224,Música,PR - Pregrado,Coro,MUC701,5,10,,San Joaquín,Revisar en buscador de cursos desde 15 de julio.,No,,,,TAL = W:1450 a 1720; ,,Español
+13220,Música,PR - Pregrado,Coro,MUC701,6,10,,Casa Central,Revisar en buscador de cursos desde 15 de julio.,No,,,,TAL = L:1450 a 1720; ,,Español
+13226,Música,PR - Pregrado,Coro,MUC701,7,10,,San Joaquín,Revisar en buscador de cursos desde 15 de julio.,No,,,,TAL = M:1450 a 1720; ,,Español
+31377,Música,PR - Pregrado,"Introduccion a la Musica, Cien",MUC859,1,10,,San Joaquín,Revisar en buscador de cursos desde 15 de julio.,No,CLAS = V:1100 a 1330; ,,,,,Español
+25690,Música,PR - Pregrado,La Interpretacion Musical: Pro,MUC872,1,10,,San Joaquín,Revisar en buscador de cursos desde 15 de julio.,No,CLAS = M:0820 a 1050; ,,,,,Español
+25107,Música,PR - Pregrado,"Mujer, Música e Historia",MUC957,1,10,,San Joaquín,Revisar en buscador de cursos desde 15 de julio.,No,CLAS = L:0820 a 1050; ,,,,,Español
+25121,Música,PR - Pregrado,La Musica en Nuestro Tiempo,MUC958,1,10,,San Joaquín,Revisar en buscador de cursos desde 15 de julio.,No,CLAS = L:1730 a 2000; ,,,,,Español
+25686,Música,PR - Pregrado,Historia del Canto Coral,MUC959,1,10,,San Joaquín,Revisar en buscador de cursos desde 15 de julio.,No,CLAS = J:1100 a 1330; ,,,,,Español
+25689,Música,PR - Pregrado,La Experiencia de las Artes,MUC960,1,10,,Casa Central,Revisar en buscador de cursos desde 15 de julio.,No,CLAS = M:1100 a 1330; ,,,,,Español
+31375,Música,PR - Pregrado,Musica Popular Latinoamericana,MUC962,1,10,,Oriente,Revisar en buscador de cursos desde 15 de julio.,No,CLAS = W:1450 a 1720; ,,,,,Español
+33907,Música,PR - Pregrado,Experiencia Musical:Fisica Cog,MUC965,1,10,,San Joaquín,Revisar en buscador de cursos desde 15 de julio.,No,CLAS = W:0820 a 1050; ,,,,,Español
+12852,Psicología,PR - Pregrado,Cultura y Sociedad Latinoameri,PSB408,1,10,,San Joaquín,Revisar en buscador de cursos desde 15 de julio.,Sí,CLAS = M:1100 a 1330; ,,,,,Español
+23935,Psicología,PR - Pregrado,Procesos Psicologicos Basicos,PSI1101,1,10,,San Joaquín,Revisar en buscador de cursos desde 15 de julio.,Sí,CLAS = M:1450 a 1720; ,AYU = M:1730 a 1840; ,,,,Español
+12907,Psicología,PR - Pregrado,Psicologia del Desarrollo I,PSI1104,1,10,AS - Aprendizaje Servicio,San Joaquín,Revisar en buscador de cursos desde 15 de julio.,Sí,CLAS = W:0820 a 1210; ,,,,,Español
+22238,Psicología,PR - Pregrado,Psicologia del Desarrollo I,PSI1104,3,10,AS - Aprendizaje Servicio,San Joaquín,Revisar en buscador de cursos desde 15 de julio.,Sí,CLAS = W:0820 a 1210; ,,,,,Español
+22239,Psicología,PR - Pregrado,Psicologia del Desarrollo I,PSI1104,4,10,AS - Aprendizaje Servicio,San Joaquín,Revisar en buscador de cursos desde 15 de julio.,Sí,CLAS = W:0820 a 1210; ,,,,,Español
+34141,Psicología,PR - Pregrado,Psicologia del Desarrollo I,PSI1104,5,10,AS - Aprendizaje Servicio,San Joaquín,Revisar en buscador de cursos desde 15 de julio.,Sí,CLAS = W:0820 a 1210; ,,,,,Español
+12915,Psicología,PR - Pregrado,Metodologias de Investigacion,PSI1203,4,10,,San Joaquín,Revisar en buscador de cursos desde 15 de julio.,Sí,CLAS = W:1100 a 1330; ,AYU = W:1610 a 1720; ,,,,Español
+12928,Psicología,PR - Pregrado,Fundamentos Biologicos del Com,PSI1204,1,10,,San Joaquín,Revisar en buscador de cursos desde 15 de julio.,Sí,CLAS = J:1100 a 1330; ,,,TAL = W:1730 a 1840; ,,Español
+12933,Psicología,PR - Pregrado,Fundamentos Biologicos del Com,PSI1204,2,10,,San Joaquín,Revisar en buscador de cursos desde 15 de julio.,Sí,CLAS = M:1100 a 1330; ,,,TAL = W:1730 a 1840; ,,Español
+16533,Psicología,PR - Pregrado,Fundamentos Biologicos del Com,PSI1204,3,10,,San Joaquín,Revisar en buscador de cursos desde 15 de julio.,Sí,CLAS = V:1100 a 1330; ,,,TAL = W:1730 a 1840; ,,Español
+25895,Psicología,PR - Pregrado,Psicologia Social,PSI1205,1,10,,San Joaquín,Revisar en buscador de cursos desde 15 de julio.,Sí,CLAS = J:1450 a 1720; ,AYU = J:1730 a 1840; ,,,,Español
+20710,Psicología,PR - Pregrado,Teorias Sociales en Psicologia,PSI1206,1,10,,San Joaquín,Revisar en buscador de cursos desde 15 de julio.,Sí,CLAS = M:0940 a 1050; J:0940 a 1050; ,AYU = J:0820 a 0930; ,,,,Español
+20711,Psicología,PR - Pregrado,Teorias Sociales en Psicologia,PSI1206,2,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:0940 a 1050; J:0940 a 1050; ,AYU = J:0820 a 0930; ,,,,Español
+23895,Psicología,PR - Pregrado,Psicoanalisis,PSI2303,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1100 a 1330; ,AYU = M:0820 a 0930; ,,,,Español
+23896,Psicología,PR - Pregrado,Psicoanalisis,PSI2303,2,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1100 a 1330; ,AYU = M:0820 a 0930; ,,,,Español
+23897,Psicología,PR - Pregrado,Psicoanalisis,PSI2303,3,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1100 a 1330; ,AYU = M:0820 a 0930; ,,,,Español
+12995,Psicología,PR - Pregrado,Teoria de Sistemas,PSI2307,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = J:1100 a 1330; ,AYU = J:0820 a 0930; ,,,,Español
+13000,Psicología,PR - Pregrado,Teoria de Sistemas,PSI2307,2,10,,San Joaquín,PR - Presencial,Sí,CLAS = J:1100 a 1330; ,,,,,Español
+13006,Psicología,PR - Pregrado,"Inteligencia, Pensamiento y Le",PSI2308,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = W:1450 a 1720; ,,,TAL = V:1450 a 1600; ,,Español
+15501,Psicología,PR - Pregrado,"Inteligencia, Pensamiento y Le",PSI2308,2,10,,San Joaquín,PR - Presencial,Sí,CLAS = V:0940 a 1210; ,,,TAL = V:1610 a 1720; ,,Español
+13015,Psicología,PR - Pregrado,Afectividad y Motivacion,PSI2309,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1100 a 1330; ,AYU = L:1450 a 1600; ,,,,Español
+17441,Psicología,PR - Pregrado,Afectividad y Motivacion,PSI2309,2,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1100 a 1330; ,AYU = L:1450 a 1600; ,,,,Español
+25828,Psicología,PR - Pregrado,Psicopatologia Infanto-Juvenil,PSI2402,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = W:1100 a 1330; ,AYU = W:0820 a 0930; ,,,,Español
+25829,Psicología,PR - Pregrado,Psicopatologia Infanto-Juvenil,PSI2402,2,10,,San Joaquín,PR - Presencial,Sí,CLAS = W:1100 a 1330; ,AYU = W:0820 a 0930; ,,,,Español
+25830,Psicología,PR - Pregrado,Psicopatologia Infanto-Juvenil,PSI2402,3,10,,San Joaquín,PR - Presencial,Sí,CLAS = W:1100 a 1330; ,AYU = W:0820 a 0930; ,,,,Español
+13071,Psicología,PR - Pregrado,Evaluacion Psicologica II,PSI2405,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1100 a 1330; ,AYU = V:0820 a 0930; ,,,,Español
+13079,Psicología,PR - Pregrado,Evaluacion Psicologica II,PSI2405,2,10,,San Joaquín,PR - Presencial,Sí,CLAS = J:1100 a 1330; ,AYU = V:0820 a 0930; ,,,,Español
+13076,Psicología,PR - Pregrado,Evaluacion Psicologica II,PSI2405,3,10,,San Joaquín,PR - Presencial,Sí,CLAS = V:1100 a 1330; ,AYU = V:0940 a 1050; ,,,,Español
+13092,Psicología,PR - Pregrado,Iniciacion Profesional a la Ps,PSI2407,1,10,AS - Aprendizaje Servicio,San Joaquín,PR - Presencial,No,CLAS = M:1450 a 1720; ,AYU = M:1730 a 1840; ,,,,Español
+13096,Psicología,PR - Pregrado,Iniciacion Profesional a la Ps,PSI2408,1,10,AS - Aprendizaje Servicio,San Joaquín,PR - Presencial,No,CLAS = J:1100 a 1330; ,AYU = J:1610 a 1720; ,,,,Español
+21356,Psicología,PR - Pregrado,Iniciacion Profesional a la Ps,PSI2408,2,10,AS - Aprendizaje Servicio,San Joaquín,PR - Presencial,No,CLAS = J:0820 a 1050; ,AYU = J:1610 a 1720; ,,,,Español
+34238,Psicología,PR - Pregrado,Iniciacion Profesional a la Ps,PSI2408,3,10,,San Joaquín,PR - Presencial,No,CLAS = J:0820 a 1050; ,AYU = J:1610 a 1720; ,,,,Español
+34264,Psicología,PR - Pregrado,Psico Aplic a Emergen y Desast,PSI2436,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = W:1450 a 1720; ,,,,,Español
+30997,Psicología,PR - Pregrado,Desigualdad de Genero,PSI2437,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = J:1100 a 1330; ,,,,,Español
+27582,Psicología,PR - Pregrado,Persp Act en Neuropsicologia,PSI2445,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1450 a 1720; ,AYU = L:1730 a 1840; ,,,,Español
+34239,Psicología,PR - Pregrado,"Psicologia, Discapacidad e Inc",PSI2448,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = W:1450 a 1720; ,,,,,Español
+34263,Psicología,PR - Pregrado,Desarrollo Infantil y Politica,PSO409,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = W:1450 a 1720; ,,,,,Español
+13713,Química,PR - Pregrado,Farmaco-Quimica II,QIF102A,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:0940 a 1050; W:0940 a 1050; V:0940 a 1050; ,,,,,Español
+13717,Química,PR - Pregrado,Farmacocinetica y Bio-Farmacia,QIF104A,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:0940 a 1050; W:0940 a 1050; J:0940 a 1050; ,,,,,Español
+13721,Química,PR - Pregrado,Toxicologia,QIF108,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1100 a 1210; W:0940 a 1210; ,,,,,Español
+27767,Química,PR - Pregrado,Bioquimica Clinica,QIF118A,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:0820 a 1050; J:0820 a 1050; ,,,,,Español
+13741,Química,PR - Pregrado,Farmacologia I,QIF150,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = J:1100 a 1330; V:1220 a 1600; ,,,,,Español
+13786,Química,PR - Pregrado,Quimica Organica II,QIM103A,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:0820 a 0930; M:0820 a 0930; W:0820 a 0930; ,AYU = J:0820 a 0930; ,,,,Español
+33220,Química,PR - Pregrado,Quimica Organica II,QIM103A,2,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:0820 a 0930; M:0820 a 0930; W:0820 a 0930; ,AYU = J:0820 a 0930; ,,,,Español
+29666,Química,PR - Pregrado,Quimica Analitica I,QIM109B,1,10,,San Joaquín,PR - Presencial,No,CLAS = M:0940 a 1210; J:0940 a 1210; ,,LAB = M:1220 a 1720; ,,,Español
+15584,Química,PR - Pregrado,Quimica-Fisica III,QIM116,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:0940 a 1050; W:0940 a 1050; V:0940 a 1050; ,,,TAL = M:1450 a 1840; ,,Español
+29345,Química,PR - Pregrado,Mundo de los Medicamentos,QIM124,2,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1220 a 1330; M:1450 a 1720; ,,,,,Español
+13802,Química,PR - Pregrado,Quimica-Fisica,QIM150,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:0940 a 1050; M:0940 a 1050; W:0940 a 1050; ,,,,,Español
+13807,Química,PR - Pregrado,Quimica Organica Fundamental,QIM200,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:0940 a 1050; J:0940 a 1050; W:1450 a 1600; ,,,,,Español
+28148,Química,PR - Pregrado,Bioquimica General,QIM202,3,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:0820 a 0930; W:0820 a 0930; M:0940 a 1050; J:0940 a 1050; ,,,,,Español
+20075,Química,PR - Pregrado,Quimica Inorganica Aplicada,QIM500,1,10,,San Joaquín,PR - Presencial,No,CLAS = L:1220 a 1330; M:1220 a 1330; W:1220 a 1330; ,,,,,Español
+31288,Sociología,PR - Pregrado,Sociologia Economica,SOL116,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = W:0940 a 1050; W:1220 a 1330; ,AYU = M:1730 a 1840; ,,,,Español
+34357,Sociología,PR - Pregrado,Sociologia Politica,SOL119,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1220 a 1330; L:1450 a 1600; ,AYU = V:1610 a 1720; ,,,,Español
+34347,Sociología,PR - Pregrado,Sociologia de la Comunicacion,SOL135,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1450 a 1720; ,AYU = J:1610 a 1720; ,,,,Español
+34353,Sociología,PR - Pregrado,Sociologia de la Salud,SOL142,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1100 a 1330; ,AYU = J:1730 a 1840; ,,,,Español
+14056,Sociología,PR - Pregrado,Politicas Publicas,SOL155S,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = W:1610 a 1840; ,AYU = V:1450 a 1600; ,,,,Español
+34352,Sociología,PR - Pregrado,Sociologia de la Estratificaci,SOL171S,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = V:1100 a 1330; ,AYU = L:1610 a 1720; ,,,,Español
+33066,Sociología,PR - Pregrado,Sociologia del Genero,SOL191,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = J:1100 a 1330; ,AYU = W:0820 a 0930; ,,,,Español
+20382,Sociología,PR - Pregrado,Soc y Cult Latinoamerica,SOL214,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:0940 a 1050; J:0940 a 1050; ,AYU = L:1450 a 1600; ,,,,Español
+23983,Sociología,PR - Pregrado,Soc y Cult Latinoamerica,SOL214,2,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1100 a 1210; M:1100 a 1210; ,AYU = M:1450 a 1600; ,,,,Español
+27488,Sociología,PR - Pregrado,Sustentab:Politica y Conocimie,SOL218,1,10,,San Joaquín,HIB - Híbrido,Sí,CLAS = M:1100 a 1330; ,AYU = W:1220 a 1330; ,,,,Español
+34355,Sociología,PR - Pregrado,Soc del Delito y la Desviación,SOL229,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:0940 a 1050; J:0940 a 1050; ,AYU = L:1730 a 1840; ,,,,Español
+34346,Sociología,PR - Pregrado,Sociologia Analitica,SOL408,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = V:0820 a 1050; ,AYU = L:0820 a 0930; ,,,,Español
+31219,Sociología,PR - Pregrado,Cultura Moderna de Occidente,SOL503,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = W:1100 a 1330; ,AYU = V:1610 a 1720; ,,,,Español
+34338,Sociología,PR - Pregrado,Cultura Moderna de Occidente,SOL503,2,10,,San Joaquín,PR - Presencial,Sí,CLAS = W:1100 a 1330; ,AYU = V:1610 a 1720; ,,,,Español
+31205,Sociología,PR - Pregrado,Teorias Sociales Fundacionales,SOL504,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1100 a 1210; J:1100 a 1210; ,AYU = V:1100 a 1210; ,,,,Español
+31217,Sociología,PR - Pregrado,Teorias Sociales Fundacionales,SOL504,2,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1100 a 1210; J:1100 a 1210; ,AYU = V:1100 a 1210; ,,,,Español
+33036,Sociología,PR - Pregrado,Teorias Sociales Relacionales,SOL509,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1220 a 1330; W:1220 a 1330; ,AYU = V:0940 a 1050; ,,,,Español
+34339,Sociología,PR - Pregrado,Teorias Sociales Relacionales,SOL509,2,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1220 a 1330; W:1220 a 1330; ,AYU = V:0940 a 1050; ,,,,Español
+33035,Sociología,PR - Pregrado,Culturas Modernas Latinoameric,SOL510,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1100 a 1210; W:1100 a 1210; ,AYU = V:1100 a 1210; ,,,,Español
+34340,Sociología,PR - Pregrado,Culturas Modernas Latinoameric,SOL510,2,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1100 a 1210; W:1100 a 1210; ,AYU = V:1100 a 1210; ,,,,Español
+26236,Teatro,PR - Pregrado,Comunicac Expresiv: Conc Vocal,ACT1307,1,10,,San Joaquín,PR - Presencial,No,,,,TAL = J:1100 a 1330; ,,Español
+34165,Teatro,PR - Pregrado,Comunicac Expresiv: Conc Vocal,ACT1307,2,10,,San Joaquín,PR - Presencial,No,CLAS = J:1450 a 1720; ,,,,,Español
+26239,Teatro,PR - Pregrado,Imaginarios Const Teatro Chile,ACT1309,1,10,,Casa Central,PR - Presencial,No,CLAS = L:1100 a 1330; ,,,,,Español
+27939,Teatro,PR - Pregrado,Imaginarios Const Teatro Chile,ACT1309,2,10,,San Joaquín,PR - Presencial,No,CLAS = M:1450 a 1720; ,,,,,Español
+32153,Teatro,PR - Pregrado,Imaginarios Const Teatro Chile,ACT1309,3,10,,San Joaquín,PR - Presencial,No,CLAS = V:1100 a 1330; ,,,,,Español
+28981,Teatro,PR - Pregrado,Mitos Clasicos y Creacion,ACT1311,1,10,,San Joaquín,PR - Presencial,No,CLAS = M:1450 a 1720; ,,,,,Español
+32252,Teatro,PR - Pregrado,Mitos Clasicos y Creacion,ACT1311,2,10,,Casa Central,PR - Presencial,No,CLAS = V:1100 a 1330; ,,,,,Español
+31325,Teatro,PR - Pregrado,Performance como Exp,ACT1312,1,10,,San Joaquín,PR - Presencial,No,CLAS = W:1450 a 1720; ,,,,,Español
+32155,Teatro,PR - Pregrado,Performance como Exp,ACT1312,2,10,,Casa Central,PR - Presencial,No,CLAS = J:1100 a 1330; ,,,,,Español
+27941,Teatro,PR - Pregrado,Problemas de las Artes,ACT1313,1,10,,San Joaquín,PR - Presencial,No,CLAS = J:1450 a 1720; ,,,,,Español
+27942,Teatro,PR - Pregrado,Problemas de las Artes,ACT1313,2,10,,Casa Central,PR - Presencial,No,CLAS = W:1450 a 1720; ,,,,,Español
+26242,Teatro,PR - Pregrado,Teatro Aplicado,ACT1314,1,10,,San Joaquín,PR - Presencial,No,CLAS = L:1100 a 1330; ,,,,,Español
+27940,Teatro,PR - Pregrado,Teatro Aplicado,ACT1314,2,10,,San Joaquín,PR - Presencial,No,CLAS = L:1450 a 1720; ,,,,,Español
+32154,Teatro,PR - Pregrado,Teatro Aplicado,ACT1314,3,10,,San Joaquín,PR - Presencial,No,CLAS = W:1100 a 1330; ,,,,,Español
+26243,Teatro,PR - Pregrado,La Experiencia de la Crea,ACT1315,1,10,,San Joaquín,PR - Presencial,No,CLAS = W:1450 a 1720; ,,,,,Español
+30231,Teatro,PR - Pregrado,La Experiencia de la Crea,ACT1315,2,10,,San Joaquín,PR - Presencial,No,CLAS = L:1100 a 1330; ,,,,,Español
+27938,Teatro,PR - Pregrado,Improvisacion y Juego Escenico,ACT1318,1,10,,San Joaquín,PR - Presencial,No,CLAS = M:1100 a 1330; ,,,,,Español
+31321,Teatro,PR - Pregrado,"Cuerpo, Emocion y Arte",ACT1319,1,10,,San Joaquín,PR - Presencial,No,,,,TAL = L:1100 a 1330; ,,Español
+31322,Teatro,PR - Pregrado,Dialogo Teatral Com Escenica,ACT1321,1,10,,San Joaquín,PR - Presencial,No,,,,TAL = J:1100 a 1330; ,,Español
+31323,Teatro,PR - Pregrado,Dialogo Teatral Com Escenica,ACT1321,2,10,,Casa Central,PR - Presencial,No,,,,TAL = M:1100 a 1330; ,,Español
+31324,Teatro,PR - Pregrado,Dialogo Teatral Com Escenica,ACT1321,3,10,,San Joaquín,PR - Presencial,No,,,,TAL = W:1100 a 1330; ,,Español
+32152,Teatro,PR - Pregrado,Dialogo Teatral Com Escenica,ACT1321,4,10,,San Joaquín,PR - Presencial,No,CLAS = L:1450 a 1720; ,,,,,Español
+13988,Teología,PR - Pregrado,,TBD016,1,10,,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Español
+13990,Teología,PR - Pregrado,,TBD021,1,15,,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Español
+13991,Teología,PR - Pregrado,,TBD024,1,5,,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Español
+14005,Teología,PR - Pregrado,,TBS031,1,10,,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Español
+15581,Teología,PR - Pregrado,,TBS028,1,10,,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Español
+16790,Teología,PR - Pregrado,,TBD026,1,15,,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Español
+28200,Teología,PR - Pregrado,,TTF116,1,10,,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Español
+29608,Teología,PR - Pregrado,,TTF226,2,10,,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Español
+31100,Teología,PR - Pregrado,,TID201,1,10,AS - Aprendizaje Servicio,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Español
+31226,Teología,PR - Pregrado,,TTF115,2,10,,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Español
+32293,Teología,PR - Pregrado,,TTF222,1,10,,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Español
+32340,Teología,PR - Pregrado,,TER004,1,10,,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Español
+32342,Teología,PR - Pregrado,,TER003,1,10,,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Español
+32343,Teología,PR - Pregrado,,TER007,1,10,,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Español
+32344,Teología,PR - Pregrado,,TER002,1,10,,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Español
+32345,Teología,PR - Pregrado,,TER006,1,10,,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Español
+32346,Teología,PR - Pregrado,,TER001,1,10,,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Español
+33833,Teología,PR - Pregrado,,TER005,1,10,,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Español
+33876,Teología,PR - Pregrado,,TTF211,1,10,,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Español
+34222,Teología,PR - Pregrado,,TTF100,2,10,,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Revisar en buscador de cursos desde 15 de julio.,Español
+26479,Trabajo Social,PR - Pregrado,Pobreza y Exclusión Social,TSL589,1,10,,San Joaquín,PR - Presencial,No,CLAS = L:0820 a 0930; W:0820 a 0930; ,AYU = M:1220 a 1330; ,,,,Español
+26480,Trabajo Social,PR - Pregrado,"Instituc, Partic y Protec Dere",TSL590,1,10,,San Joaquín,PR - Presencial,No,CLAS = W:0820 a 1050; ,AYU = W:1610 a 1720; ,,,,Español
+27742,Trabajo Social,PR - Pregrado,Cuidadania y Derechos Humanos,TSL596,1,10,,San Joaquín,PR - Presencial,No,CLAS = M:0820 a 1050; ,AYU = M:1450 a 1600; ,,,,Español
+15158,Ingeniería,PR - Pregrado,Introduccion a la Ingenieria B,IBM1005,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1100 a 1210; W:1100 a 1210; ,,,TAL = V:1100 a 1210; ,,Español
+18645,Ingeniería,PR - Pregrado,Imagenes Biomedicas,IBM2101,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1100 a 1210; J:1100 a 1210; ,,,TAL = V:1100 a 1210; ,,Español
+22309,Ingeniería,PR - Pregrado,Mat de Inge Civil,ICC2105,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:0820 a 0930; W:0820 a 0930; ,,,TAL = V:0940 a 1050; ,,Español
+10650,Ingeniería,PR - Pregrado,Planificacion y Control de Pro,ICC2204,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1100 a 1210; J:1100 a 1210; ,,,,,Español
+10659,Ingeniería,PR - Pregrado,Ingenieria de Construccion,ICC2304,1,10,,San Joaquín,PR - Presencial,No,CLAS = M:0940 a 1050; J:0940 a 1050; ,,,TAL = V:1100 a 1210; ,TER = V:0820 a 1050; ,Español
+10670,Ingeniería,PR - Pregrado,Diseno de Edificios Sustentabl,ICC2354,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1220 a 1330; J:1220 a 1330; ,,,,,Español
+20389,Ingeniería,PR - Pregrado,Topografia y Geoinformacion Ap,ICC2414,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:0820 a 0930; J:0820 a 0930; ,,LAB = V:0820 a 1050; ,,,Español
+10850,Ingeniería,PR - Pregrado,Construccion de Obras Civiles,ICC2424,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:0940 a 1050; W:0940 a 1050; ,,,TAL = V:1100 a 1210; ,,Español
+20388,Ingeniería,PR - Pregrado,Diseno y Construccion en Mader,ICC2454,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1100 a 1210; W:1100 a 1210; ,AYU = V:1220 a 1330; ,,,,Español
+10869,Ingeniería,PR - Pregrado,Ingenieria Vial,ICC2514,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:0940 a 1050; W:0940 a 1050; ,AYU = L:1450 a 1600; ,,,,Español
+14347,Ingeniería,PR - Pregrado,Tecnologias de Informacion en,ICC2913,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1100 a 1210; J:1100 a 1210; ,,,,,Español
+22983,Ingeniería,PR - Pregrado,Dinamica,ICE1514,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:0940 a 1050; W:0940 a 1050; ,AYU = M:1220 a 1330; ,,TAL = V:0940 a 1050; ,,Español
+22884,Ingeniería,PR - Pregrado,Estatica,ICE2006,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:0820 a 0930; J:0820 a 0930; ,AYU = L:1450 a 1600; W:1450 a 1600; ,,,,Español
+29244,Ingeniería,PR - Pregrado,Geoquimica y Petrogenesis,ICE2025,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:0940 a 1050; J:0940 a 1050; ,,LAB = J:1450 a 1720; ,,,Español
+15154,Ingeniería,PR - Pregrado,Procesos Superficiales y Pelig,ICE2029,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1220 a 1330; J:1220 a 1330; ,,LAB = L:1450 a 1720; ,,,Español
+11051,Ingeniería,PR - Pregrado,Analisis Estructural I,ICE2114,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:0820 a 0930; J:0820 a 0930; ,AYU = W:1450 a 1600; ,,TAL = L:1450 a 1600; ,,Español
+15761,Ingeniería,PR - Pregrado,Metodos Numericos en Ingenieri,ICE2135,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:0940 a 1050; J:0940 a 1050; ,AYU = J:1450 a 1600; ,,,,Español
+11059,Ingeniería,PR - Pregrado,Mecanica de Solidos,ICE2313,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1100 a 1210; W:1100 a 1210; ,AYU = L:1450 a 1600; ,,,,Español
+20477,Ingeniería,PR - Pregrado,Hormigon Armado,ICE2413,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1220 a 1330; W:1220 a 1330; V:1220 a 1330; ,AYU = L:1610 a 1720; ,LAB = V:1450 a 1600; ,,,Español
+11075,Ingeniería,PR - Pregrado,Fundamentos de Geotecnia,ICE2604,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:0940 a 1050; W:0940 a 1050; ,,LAB = M:1220 a 1330; J:1220 a 1330; ,,,Español
+11085,Ingeniería,PR - Pregrado,Mecanica de Suelos,ICE2614,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:0940 a 1050; W:0940 a 1050; ,AYU = V:1450 a 1720; ,,,,Español
+11090,Ingeniería,PR - Pregrado,Introduccion a la Geologia Fis,ICE2623,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:0940 a 1050; J:0940 a 1050; ,,LAB = W:1450 a 1720; ,,,Español
+11098,Ingeniería,PR - Pregrado,Geofisica General,ICE2630,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1100 a 1210; J:1100 a 1210; ,,,TAL = V:0940 a 1050; ,,Español
+20479,Ingeniería,PR - Pregrado,Proyecto de Diseño Estructural,ICE2880,1,10,,San Joaquín,PR - Presencial,No,CLAS = L:1450 a 1720; W:1450 a 1720; ,,,,,Español
+11299,Ingeniería,PR - Pregrado,Mecanica de Fluidos,ICH1104,2,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1100 a 1210; W:1100 a 1210; V:1100 a 1210; ,,,,,Español
+11309,Ingeniería,PR - Pregrado,Ingenieria Hidraulica,ICH2114,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1220 a 1330; W:1220 a 1330; V:1220 a 1330; ,,,,,Español
+11333,Ingeniería,PR - Pregrado,Ingenieria Ambiental,ICH2304,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1100 a 1210; J:1100 a 1210; V:1450 a 1600; ,,,,,Español
+14350,Ingeniería,PR - Pregrado,Calidad del Agua,ICH2314,1,10,,San Joaquín,PR - Presencial,No,CLAS = L:1610 a 1720; M:0820 a 0930; J:0820 a 0930; ,,,,,Español
+25871,Ingeniería,PR - Pregrado,Ppios de Tratamiento de Agua,ICH2604,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1220 a 1330; J:1220 a 1330; M:1450 a 1600; ,,,,,Español
+21659,Ingeniería,PR - Pregrado,CMD Cambio Climat: un Enfo Mul,ICH2613,1,10,,San Joaquín,PR - Presencial,No,CLAS = V:0820 a 1050; ,,,TAL = V:1100 a 1210; ,,Español
+30470,Ingeniería,PR - Pregrado,Manufactura para Fabricacion,ICM100G,1,10,,San Joaquín,PR - Presencial,No,CLAS = V:1450 a 1720; ,,,,,Español
+11493,Ingeniería,PR - Pregrado,Sistemas Electromecanicos,ICM2003,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1100 a 1210; W:1100 a 1210; ,AYU = V:1100 a 1210; ,,,,Español
+16989,Ingeniería,PR - Pregrado,Diseno Mecanico,ICM2022,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:0820 a 0930; W:0820 a 0930; ,AYU = V:0820 a 0930; ,,,,Español
+23992,Ingeniería,PR - Pregrado,Mecanica de Materiales,ICM2028,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1450 a 1600; W:1450 a 1600; ,AYU = V:1450 a 1600; ,,,,Español
+11527,Ingeniería,PR - Pregrado,Conversion de Energia,ICM2213,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1100 a 1210; J:1100 a 1210; ,AYU = W:1450 a 1600; ,,,,Español
+11596,Ingeniería,PR - Pregrado,Taller de Diseno de Productos,ICM2343,1,10,,San Joaquín,PR - Presencial,No,CLAS = L:1220 a 1330; W:1220 a 1330; ,,,,,Español
+11602,Ingeniería,PR - Pregrado,Ciencia de los Materiales,ICM2403,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1220 a 1330; W:1220 a 1330; ,AYU = V:1220 a 1330; ,,,,Español
+11631,Ingeniería,PR - Pregrado,Dinamica de Sistemas Mecanicos,ICM2803,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:0940 a 1050; J:0940 a 1050; ,AYU = W:1610 a 1720; ,,,,Español
+23997,Ingeniería,PR - Pregrado,Control de Sistemas Mecanicos,ICM2813,2,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:0940 a 1050; W:0940 a 1050; ,,LAB = V:1100 a 1210; ,,,Español
+24010,Ingeniería,PR - Pregrado,Financ y Creac de Start-Ups,ICS2032,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = J:1450 a 1720; ,,,,,Español
+14791,Ingeniería,PR - Pregrado,Metodos de Optimizacion,ICS2121,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1100 a 1210; W:1100 a 1210; ,,,TAL = V:1100 a 1210; ,,Español
+31081,Ingeniería,PR - Pregrado,Microeconomia,ICS2523,3,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1220 a 1330; W:1220 a 1330; ,,,TAL = V:0940 a 1050; ,,Español
+14352,Ingeniería,PR - Pregrado,Organizacion y Comportamiento,ICS2813,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:0940 a 1050; W:0940 a 1050; ,AYU = V:0940 a 1050; ,,,,Español
+18581,Ingeniería,PR - Pregrado,Modelos de Demanda de Transpor,ICT2213,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1100 a 1210; W:1100 a 1210; V:1100 a 1210; ,,,,,Español
+18583,Ingeniería,PR - Pregrado,Modelos de Trafico,ICT2223,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1220 a 1330; W:1220 a 1330; V:1220 a 1330; ,,,,,Español
+18574,Ingeniería,PR - Pregrado,Flujo en Redes,ICT2233,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = W:0940 a 1050; J:0940 a 1050; ,AYU = L:1610 a 1720; ,,,,Español
+18624,Ingeniería,PR - Pregrado,Ingenieria de Sistemas de Tran,ICT2904,1,10,,San Joaquín,PR - Presencial,No,CLAS = L:0940 a 1050; W:0940 a 1050; V:0940 a 1050; ,,,,,Español
+16795,Ingeniería,PR - Pregrado,Pensamiento Visual,IDI1015,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1100 a 1330; ,AYU = J:1450 a 1600; ,,,,Español
+30804,Ingeniería,PR - Pregrado,Introduccion a la Ingenieria E,IEE1100,1,10,,San Joaquín,PR - Presencial,No,,AYU = V:1220 a 1330; ,LAB = L:1450 a 1720; ,,,Español
+18603,Ingeniería,PR - Pregrado,Fundamentos de Teoría Electrom,IEE1533,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1220 a 1330; W:1220 a 1330; ,AYU = M:1450 a 1720; ,,,,Español
+10738,Ingeniería,PR - Pregrado,Senales y Sistemas,IEE2103,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1100 a 1210; W:1100 a 1210; ,,,TAL = V:1100 a 1210; ,,Español
+10942,Ingeniería,PR - Pregrado,Control Automatico,IEE2613,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1100 a 1210; W:1100 a 1210; V:1100 a 1210; ,,,,,Español
+10962,Ingeniería,PR - Pregrado,Sistemas Digitales,IEE2713,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:0940 a 1050; J:0940 a 1050; ,AYU = W:1610 a 1720; ,,,,Español
+12154,Ingeniería,PR - Pregrado,Computacion: Ciencia y Tecnolo,IIC1005,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:0940 a 1050; J:0940 a 1050; ,AYU = M:1450 a 1600; J:1450 a 1600; ,,,,Español
+25966,Ingeniería,PR - Pregrado,En Busqueda del Bienestar,IIC100G,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1450 a 1600; J:1450 a 1600; ,,,,,Español
+12164,Ingeniería,PR - Pregrado,Introduccion a  las Aplicacion,IIC1062,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:0820 a 0930; W:0820 a 0930; ,AYU = V:0820 a 0930; ,,,,Español
+20507,Ingeniería,PR - Pregrado,Matematicas Discretas,IIC1253,2,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:0940 a 1050; W:0940 a 1050; ,,,TAL = V:0940 a 1050; ,,Español
+18985,Ingeniería,PR - Pregrado,Visualizacion de Informacion,IIC2026,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:0940 a 1050; J:0940 a 1050; ,AYU = V:1220 a 1330; ,,,,Español
+12347,Ingeniería,PR - Pregrado,Programacion Como Herramienta,IIC2115,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1450 a 1720; ,AYU = J:1450 a 1600; ,,,,Español
+24358,Ingeniería,PR - Pregrado,Estructuras de Datos y Algorit,IIC2133,2,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1220 a 1330; W:1220 a 1330; ,AYU = V:1220 a 1330; ,,,,Español
+29368,Ingeniería,PR - Pregrado,Estructuras de Datos y Algorit,IIC2133,3,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1220 a 1330; W:1220 a 1330; ,AYU = V:1220 a 1330; ,,,,Español
+21906,Ingeniería,PR - Pregrado,Ingenieria de Software,IIC2143,2,10,,San Joaquín,PR - Presencial,No,CLAS = M:1100 a 1210; J:1100 a 1210; ,AYU = V:1610 a 1720; ,,,,Español
+29401,Ingeniería,PR - Pregrado,Arquitectura de Sistemas de So,IIC2173,2,10,,San Joaquín,PR - Presencial,No,CLAS = L:1450 a 1720; ,AYU = V:1450 a 1600; ,,,,Español
+29652,Ingeniería,PR - Pregrado,Programacion Avanzada,IIC2233,5,10,,San Joaquín,PR - Presencial,Sí,CLAS = J:1450 a 1720; ,AYU = M:1610 a 1720; ,,,,Español
+12442,Ingeniería,PR - Pregrado,Diseno y Analisis de Algoritmo,IIC2283,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1450 a 1600; W:1450 a 1600; ,AYU = V:1450 a 1600; ,,,,Español
+31442,Ingeniería,PR - Pregrado,Sistemas Operativos y Redes,IIC2333,2,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:0820 a 0930; W:0820 a 0930; ,AYU = V:0820 a 0930; ,,,,Español
+27150,Ingeniería,PR - Pregrado,Arquitectura de Computadores,IIC2343,2,10,,San Joaquín,PR - Presencial,No,CLAS = L:0820 a 0930; W:0820 a 0930; ,AYU = J:1450 a 1600; ,,TAL = W:1450 a 1720; ,,Español
+23707,Ingeniería,PR - Pregrado,Bases de Datos,IIC2413,2,10,,San Joaquín,PR - Presencial,Sí,CLAS = W:1450 a 1720; ,AYU = V:1220 a 1330; ,,,,Español
+12492,Ingeniería,PR - Pregrado,Mineria de Datos,IIC2433,1,10,,San Joaquín,PR - Presencial,No,CLAS = L:1100 a 1330; ,AYU = J:1450 a 1600; ,,,,Español
+24403,Ingeniería,PR - Pregrado,Tecnologias y Aplicaciones Web,IIC2513,2,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:0820 a 0930; J:0820 a 0930; ,AYU = J:1450 a 1600; ,,,,Español
+12510,Ingeniería,PR - Pregrado,Sistemas Distribuidos,IIC2523,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1100 a 1210; W:1100 a 1210; ,AYU = V:1450 a 1600; ,,,,Español
+12528,Ingeniería,PR - Pregrado,Inteligencia Artificial,IIC2613,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:0940 a 1050; W:0940 a 1050; ,AYU = V:1220 a 1330; ,,,,Español
+12546,Ingeniería,PR - Pregrado,Sistemas de Informacion,IIC2713,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:0940 a 1050; J:0940 a 1050; ,,,TAL = W:0940 a 1050; ,,Español
+14210,Ingeniería,PR - Pregrado,Fundamentos de Procesamiento d,IIC2714,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1100 a 1210; J:1100 a 1210; ,,,,,Español
+18659,Ingeniería,PR - Pregrado,Modelos de Procesos,IIC2733,1,10,AS - Aprendizaje Servicio,San Joaquín,PR - Presencial,No,CLAS = L:0820 a 0930; W:0820 a 0930; V:0820 a 0930; ,,,,,Español
+12717,Ingeniería,PR - Pregrado,Termodinamica,IIQ1003,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:0940 a 1050; W:0940 a 1050; ,AYU = V:0940 a 1050; ,,,,Español
+20476,Ingeniería,PR - Pregrado,Termodinamica,IIQ1003,2,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:0820 a 0930; W:0820 a 0930; ,AYU = V:0820 a 0930; ,,,,Español
+13073,Ingeniería,PR - Pregrado,Fenomenos de Transporte,IIQ2003,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:0940 a 1050; W:0940 a 1050; ,AYU = M:1610 a 1720; ,,,,Español
+30918,Ingeniería,PR - Pregrado,Fisicoquimica,IIQ2043,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1220 a 1330; W:1220 a 1330; ,AYU = V:1220 a 1330; ,,,,Español
+13077,Ingeniería,PR - Pregrado,Diseno de Reactores,IIQ2113,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1100 a 1210; J:1100 a 1210; ,AYU = W:1610 a 1720; ,,,,Español
+13081,Ingeniería,PR - Pregrado,Procesos Quimicos,IIQ2133,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1100 a 1210; W:1100 a 1210; ,AYU = W:1450 a 1600; ,,,,Español
+13088,Ingeniería,PR - Pregrado,Operaciones Unitarias II,IIQ223Q,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:0820 a 0930; J:0820 a 0930; ,,LAB = W:1610 a 1840; ,TAL = V:0940 a 1050; ,,Español
+18580,Ingeniería,PR - Pregrado,Dinamica y Control de Procesos,IIQ2313,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1220 a 1330; W:1220 a 1330; ,AYU = V:1220 a 1330; ,,,,Español
+13108,Ingeniería,PR - Pregrado,Ciencia de los Alimentos,IIQ2603,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1220 a 1330; J:1220 a 1330; ,AYU = M:1610 a 1720; ,,,,Español
+17235,Ingeniería,PR - Pregrado,Quimica y Analisis de Alimento,IIQ2633,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:0820 a 0930; J:0820 a 0930; ,,LAB = V:1450 a 1720; ,,,Español
+13230,Ingeniería,PR - Pregrado,Introduccion a la Mineria,IMM1003,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1220 a 1330; J:1220 a 1330; V:1220 a 1330; ,AYU = V:1450 a 1600; ,,,,Español
+18490,Ingeniería,PR - Pregrado,Geologia Minera,IMM2003,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1450 a 1600; J:1450 a 1600; ,,LAB = V:1450 a 1720; ,,,Español
+14219,Ingeniería,PR - Pregrado,Mineria a Cielo Abierto,IMM2013,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1100 a 1210; J:1100 a 1210; ,AYU = V:1220 a 1330; ,LAB = M:1220 a 1330; ,,,Español
+15231,Ingeniería,PR - Pregrado,Mineria Subterranea,IMM2043,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1100 a 1210; J:1100 a 1210; ,AYU = J:1450 a 1600; ,LAB = V:1220 a 1330; ,,,Español
+13236,Ingeniería,PR - Pregrado,Procesos Metalurgicos,IMM2053,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:0940 a 1050; W:0940 a 1050; V:0940 a 1050; ,,,,,Español
+30939,Ingeniería,PR - Pregrado,Probabilidades y Algoritmos,IMT2117,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = L:1220 a 1330; W:1220 a 1330; ,AYU = W:1450 a 1600; ,,,,Español
+30940,Ingeniería,PR - Pregrado,Optimizacion Combinatorial,IMT2565,1,10,,San Joaquín,PR - Presencial,Sí,CLAS = M:1220 a 1330; J:1220 a 1330; ,AYU = J:1450 a 1600; ,,,,Español
+15459,Ingeniería,PR - Pregrado,"Investigacion, Innovacion y Em",ING2030,1,10,,San Joaquín,PR - Presencial,No,CLAS = M:1610 a 1720; ,,,TAL = L:0820 a 0930; W:0820 a 0930; ,,Español
+15464,Ingeniería,PR - Pregrado,"Investigacion, Innovacion y Em",ING2030,5,10,,San Joaquín,PR - Presencial,No,CLAS = M:1610 a 1720; ,,,TAL = M:0940 a 1050; J:0940 a 1050; ,,Español
+15462,Ingeniería,PR - Pregrado,"Investigacion, Innovacion y Em",ING2030,7,10,,San Joaquín,PR - Presencial,No,CLAS = M:1610 a 1720; ,,,TAL = M:1220 a 1330; J:1220 a 1330; ,,Español
